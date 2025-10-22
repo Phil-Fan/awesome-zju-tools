@@ -1,4 +1,6 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Awesome ZJU Tools
 description: 提升浙江大学学习与生活效率的工具与资源合集
-theme: jekyll-theme-cayman
 show_downloads: false

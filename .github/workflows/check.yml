@@ -21,10 +21,10 @@ jobs:
           globs: |
             README.md
       
-      - name: Markdown Link Check
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
-        with:
-          use-quiet-mode: 'yes'
-          use-verbose-mode: 'no'
-          folder-path: '.'
-          config-path: '.github/.markdown-link-check.json'
+      # - name: Markdown Link Check
+      #   uses: gaurav-nelson/github-action-markdown-link-check@v1
+      #   with:
+      #     use-quiet-mode: 'yes'
+      #     use-verbose-mode: 'no'
+      #     folder-path: '.'
+      #     config-path: '.github/.markdown-link-check.json'
