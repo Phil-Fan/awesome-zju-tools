@@ -155,3 +155,6 @@ Ongoing Project. Welcome to contribute!
 > 欢迎贡献更多 ZJU 效率工具与资源！  
 > 你可以通过 **Pull Request** 提交新项目，或在 Issues 中推荐。  
 > ⭐ Star 一下以支持项目更新！
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Phil-Fan/awesome-zju-tools&type=date&legend=top-left)](https://www.star-history.com/#Phil-Fan/awesome-zju-tools&type=date&legend=top-left)
