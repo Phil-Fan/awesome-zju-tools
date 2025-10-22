@@ -2,9 +2,9 @@
 
 > 浙江大学生态圈中提高**学习、科研与生活效率**的工具、脚本与自动化资源合集
 
+Ongoing Project. Welcome to contribute!
 
-[![Made with ❤️ by ZJUers](https://img.shields.io/badge/Made%20with%20❤️%20by-ZJUers-blue.svg)]()
-[![CC98 Forum](https://img.shields.io/badge/CC98-%E6%B5%99%E5%A4%A7%E8%AE%BA%E5%9D%9B-green)](https://www.cc98.org)
+[![Made with ❤️ by ZJUers](https://img.shields.io/badge/Made%20with%20❤️%20by-ZJUers-blue.svg)]() [![CC98 Forum](https://img.shields.io/badge/CC98-%E6%B5%99%E5%A4%A7%E8%AE%BA%E5%9D%9B-green)](https://www.cc98.org)
 
 ---
 
