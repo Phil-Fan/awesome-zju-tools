@@ -1,12 +1,12 @@
-# Awesome ZJU Tools 😎 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome ZJU Tools
 
 > 浙江大学生态圈中提高学习、科研与生活效率的工具、脚本与模版合集
 
-[![CC98 Forum](https://img.shields.io/badge/CC98-%E6%B5%99%E5%A4%A7%E8%AE%BA%E5%9D%9B-green)](https://www.cc98.org)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CC98 Forum](https://img.shields.io/badge/CC98-%E6%B5%99%E5%A4%A7%E8%AE%BA%E5%9D%9B-blue)](https://www.cc98.org)
 
 ## 📘 目录
 
-- [Awesome ZJU Tools 😎 ](#awesome-zju-tools--)
+- [Awesome ZJU Tools](#awesome-zju-tools)
   - [📘 目录](#-目录)
   - [📚 学习与课程助手](#-学习与课程助手)
     - [软件类](#软件类)
