@@ -24,6 +24,7 @@
     - [PPT/Slides](#pptslides)
     - [绘图](#绘图)
   - [⚙️ ZJU Hacks](#️-zju-hacks)
+  - [🌐 常用网站](#-常用网站)
   - [Contributing](#contributing)
   - [致谢](#致谢)
 
@@ -73,6 +74,7 @@
 | 名称 | 简介 |
 |------|------|
 | [ZChat](https://chat.zchat.tech/) | AI 聊天工具 |
+| [浙大大先生](https://chat.zju.edu.cn/login) | AI 聊天工具 |
 
 ## ⏰ 时间管理与日程同步
 
@@ -156,6 +158,14 @@
 | [OCS 网课助手](https://docs.ocsjs.com/docs/quickly-start/) | 刷 MOOC / 智慧树 自动化工具 |
 | [IshiKura-a/Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 |
 | [ginnnnnncc/GinsMooc](https://github.com/ginnnnnncc/GinsMooc) | 中国大学 MOOC 自动答题插件 |
+
+## 🌐 常用网站
+
+| 名称 | 简介 | 来源 |
+|------|------|------|
+| [ZJU轻首页](https://zjuers.com/) | 浙江大学轻量级导航主页 | Web |
+| [ZJU Git](https://git.zju.edu.cn) | 浙江大学GitLab | Web |
+| [ZJU开源镜像](https://mirrors.zju.edu.cn/) | 浙江大学开源镜像站 | Web |
 
 ## Contributing
 
