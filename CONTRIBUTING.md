@@ -22,12 +22,23 @@
 - 🧠 **内容相关**：  
   仅收录与浙大学习、科研、生活效率提升相关的资源。  
   不接受无关项目、非公开资源或违反使用条款的内容。
-  链接最好有Github或Chrome应用商店链接，最好有较为明确的使用说明或指南。
+  链接最好有 Github 或 Chrome 应用商店链接，最好有较为明确的使用说明或指南。
 
 - ⚙️ **格式一致**：  
   - 使用 Markdown 表格格式添加项目；  
   - 确保链接有效；  
   - 保持排版与已有部分一致。
+
+使用下面的工具进行检查：
+
+- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/)
+- [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
+- [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
+
+```shell
+autocorrect --fix README.md
+markdownlint --fix README.md
+```
 
 ---
 

@@ -2,19 +2,25 @@
 
 > 浙江大学生态圈中提高学习、科研与生活效率的工具、脚本与模版合集
 
-[![Made with ❤️ by ZJUers](https://img.shields.io/badge/Made%20with%20❤️%20by-ZJUers-blue.svg)]() [![CC98 Forum](https://img.shields.io/badge/CC98-%E6%B5%99%E5%A4%A7%E8%AE%BA%E5%9D%9B-green)](https://www.cc98.org)
+[![CC98 Forum](https://img.shields.io/badge/CC98-%E6%B5%99%E5%A4%A7%E8%AE%BA%E5%9D%9B-green)](https://www.cc98.org)
 
 ## 📘 目录
 
 - [Awesome ZJU Tools 😎 ](#awesome-zju-tools--)
   - [📘 目录](#-目录)
   - [📚 学习与课程助手](#-学习与课程助手)
+    - [软件类](#软件类)
+    - [网站类](#网站类)
+    - [脚本类](#脚本类)
+    - [部分 Web 插件](#部分-web-插件)
   - [⏰ 时间管理与日程同步](#-时间管理与日程同步)
   - [🌐 校园网络与系统工具](#-校园网络与系统工具)
   - [📓 资源、笔记与教程](#-资源笔记与教程)
     - [资源类](#资源类)
     - [笔记/教程类](#笔记教程类)
   - [🧮 模板与写作工具](#-模板与写作工具)
+    - [论文/实验报告模板](#论文实验报告模板)
+    - [PPT/Slides](#pptslides)
   - [⚙️ ZJU Hacks](#️-zju-hacks)
   - [Contributing](#contributing)
   - [致谢](#致谢)
@@ -23,34 +29,34 @@
 
 ## 📚 学习与课程助手
 
-**软件类**
+### 软件类
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
 | [zju-learning-assistant](https://github.com/PeiPei233/zju-learning-assistant) | 快速下载整门课件、PPT、视频 | GitHub | [PeiPei233](https://github.com/PeiPei233) |
 | [fiz](https://github.com/CrazySpottedDove/fiz) | 高速简洁的学在浙大第三方 | GitHub | [CrazySpottedDove](https://github.com/CrazySpottedDove) |
-|[Quantum](https://github.com/XmmShp/Quantum)|服务于 ZJUers 的桌面端工具箱|GitHub|[XmmShp](https://github.com/XmmShp)|
-|[ZJU-MOTIS](https://github.com/xi2p/ZJU-MOTIS)|MOTIS 是一个适用于浙江大学学生的选课辅助系统。它能够帮你找出符合你意愿的最佳课表。|GitHub|[xi2p](https://github.com/xi2p)|
+| [Quantum](https://github.com/XmmShp/Quantum)|服务于 ZJUers 的桌面端工具箱|GitHub|[XmmShp](https://github.com/XmmShp)|
+| [ZJU-MOTIS](https://github.com/xi2p/ZJU-MOTIS)|MOTIS 是一个适用于浙江大学学生的选课辅助系统。它能够帮你找出符合你意愿的最佳课表。|GitHub|[xi2p](https://github.com/xi2p)|
 
-**网站类**
+### 网站类
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
 | [思政刷题器](https://study.zjueva.net/) | 思政在线学习自动答题工具 | Web | [ADSR1042](https://github.com/ADSR1042) |
 | [大英默写器](https://eng.zjueva.net/) | 英语单词默写训练工具 | Web | [ADSR1042](https://github.com/ADSR1042) |
 
-**脚本类**
+### 脚本类
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
 | [Learning-at-ZJU-Helper](https://github.com/memset0/Learning-at-ZJU-Helper) | 学在浙大 / 智云课堂辅助脚本 | GitHub | [memset0](https://github.com/memset0)       |
-| [Lazuli](https://chromewebstore.google.com/detail/lazuli/gpiacjfgnabenbpincmnbinfmbihloed) | 浙江大学教务系统增强插件                               | Chrome 应用商店  | [ADSR1042](https://github.com/ADSR1042)     |
-| [智云课堂小助手 PC 端](https://www.cc98.org/topic/5648174)         | 一键下载课程回放 / PPT / 字幕                        | CC98         | [非牛顿流体](https://www.cc98.org/user/id/613815) |
-| [智云课堂批量下载](https://greasyfork.org/zh-CN/scripts/514465-%E6%99%BA%E4%BA%91%E8%AF%BE%E5%A0%82%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD) | 批量下载课程视频的脚本                                | CC98         | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
-| [学在浙大待办事项链接修复](https://greasyfork.org/zh-CN/scripts/513507-%E5%AD%A6%E5%9C%A8%E6%B5%99%E5%A4%A7%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9%E9%93%BE%E6%8E%A5%E4%BF%AE%E5%A4%8D) | 学在浙大待办事项链接修复                                | CC98         | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
-| [智云课堂搜索显示学期](https://greasyfork.org/zh-CN/scripts/498824-%E6%99%BA%E4%BA%91%E8%AF%BE%E5%A0%82%E6%90%9C%E7%B4%A2%E6%98%BE%E7%A4%BA%E5%AD%A6%E6%9C%9F) | 优化课程搜索体验 | CC98         | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
+| [Lazuli](https://chromewebstore.google.com/detail/lazuli/gpiacjfgnabenbpincmnbinfmbihloed) | 浙江大学教务系统增强插件 | Chrome 应用商店  | [ADSR1042](https://github.com/ADSR1042) |
+| [智云课堂小助手 PC 端](https://www.cc98.org/topic/5648174) | 一键下载课程回放 / PPT / 字幕 | CC98 | [非牛顿流体](https://www.cc98.org/user/id/613815) |
+| [智云课堂批量下载](https://greasyfork.org/zh-CN/scripts/514465-%E6%99%BA%E4%BA%91%E8%AF%BE%E5%A0%82%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD) | 批量下载课程视频的脚本 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
+| [学在浙大待办事项链接修复](https://greasyfork.org/zh-CN/scripts/513507-%E5%AD%A6%E5%9C%A8%E6%B5%99%E5%A4%A7%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9%E9%93%BE%E6%8E%A5%E4%BF%AE%E5%A4%8D) | 学在浙大待办事项链接修复 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
+| [智云课堂搜索显示学期](https://greasyfork.org/zh-CN/scripts/498824-%E6%99%BA%E4%BA%91%E8%AF%BE%E5%A0%82%E6%90%9C%E7%B4%A2%E6%98%BE%E7%A4%BA%E5%AD%A6%E6%9C%9F) | 优化课程搜索体验 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 
-**部分 Web 插件**
+### 部分 Web 插件
 
 | 名称 | 简介 |
 |------|------|
@@ -94,14 +100,14 @@
 
 | 名称 | 简介 | 来源 |
 |------|------|------|
-[zju-welcome](https://github.com/kaixuanwang2003/zju-welcome)<br>[website](https://zjuers.com/welcome/)| 浙江大学新生入学指南 | Github | [kaixuanwang2003](https://github.com/kaixuanwang2003) |
-|[图灵班学习指南](https://zju-turing.github.io/TuringCourses/) | 图灵班学习指南 | Github |
-[EEStUdy-Place](https://github.com/ZJU-EESUAD/EEStUdy-Place) | 浙江大学电气工程学院学习网站 | Github | [ZJU-EESUAD](https://github.com/ZJU-EESUAD) |
+| [zju-welcome](https://github.com/kaixuanwang2003/zju-welcome), [website](https://zjuers.com/welcome/) | 浙江大学新生入学指南 | Github |
+| [图灵班学习指南](https://zju-turing.github.io/TuringCourses/) | 图灵班学习指南 | Github |
+| [EEStUdy-Place](https://github.com/ZJU-EESUAD/EEStUdy-Place) | 浙江大学电气工程学院学习网站 | Github |
 | [IsshikiHugh/zju-cs-asio](https://github.com/IsshikiHugh/zju-cs-asio) | 收集 ZJU-CS 相关网站与学习资料索引 | GitHub |
 
 ## 🧮 模板与写作工具
 
-**论文/实验报告模板**
+### 论文/实验报告模板
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
@@ -111,13 +117,13 @@
 | [modern-zju-thesis](https://github.com/Shuenhoy/modern-zju-thesis) | 浙江大学 Typst 学位论文模版 | Github | [Shuenhoy](https://github.com/Shuenhoy) |
 | [ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template)|Yet another Zhejiang University project reports template written in Typst| Github| [memset0](https://github.com/memset0) |
 
-**PPT/Slides**
+### PPT/Slides
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
 | [slide-template](https://github.com/TonyCrane/slide-template) | slide template for **reveal-md** | Github | [TonyCrane](https://github.com/TonyCrane) |
 | [浙大 PPT 模板分享](https://www.cc98.org/topic/5906507) | 求是蓝 / 答辩模板合集 | CC98 | [空山岁月老](https://www.cc98.org/user/id/654921) |
-|[Awesome PPTs](https://www.cc98.org/topic/6290594)| CC98 版面 PPT 制作帖合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
+| [Awesome PPTs](https://www.cc98.org/topic/6290594)| CC98 版面 PPT 制作帖合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
 | [ZJU-Beamer-Template](https://github.com/qychen2001/ZJU-Beamer-Template) | 一个更好看的浙江大学 Beamer 模板 | Github | [qychen2001](https://github.com/qychen2001) |
 
 ## ⚙️ ZJU Hacks
@@ -151,3 +157,7 @@
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/)
 - [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
+
+以及 Contributors:
+
+![Contributors](https://contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)
