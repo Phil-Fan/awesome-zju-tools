@@ -44,8 +44,8 @@
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
-| [思政刷题器](https://study.zjueva.net/) | 思政在线学习自动答题工具 | Web | [ADSR1042](https://github.com/ADSR1042) |
-| [大英默写器](https://eng.zjueva.net/) | 英语单词默写训练工具 | Web | [ADSR1042](https://github.com/ADSR1042) |
+| [思政刷题器](https://study.zjueva.net/) | 思政在线刷题工具 | Web | [ADSR1042](https://github.com/ADSR1042) |
+| [大英默写器](https://eng.zjueva.net/) | 英语单词默写工具 | Web | [ADSR1042](https://github.com/ADSR1042) |
 
 ### 脚本类
 
@@ -79,9 +79,9 @@
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
 | [Celechron](https://github.com/Celechron/Celechron) | 服务于浙大学生的时间管理器，支持日历同步 | GitHub | [Celechron](https://github.com/Celechron) |
-| [zju-ical-py](https://github.com/Xecades/zju-ical-py?tab=readme-ov-file) | 基于 zju-ical 项目的 Python 重构版本 | GitHub | [Xecades](https://github.com/Xecades) |
 | [ZJU-ICAL](https://ical.raynor.top/static) | 以订阅链接形式导入课表至系统日历 | Web | [cxz66666](https://github.com/cxz66666) |
-| [ZTA](https://github.com/wdtjm/zta) | ZJUer 的桌面端时间管理工具 | GitHub | [wdtjm (wdtjm)](https://github.com/wdtjm) |
+| [zju-ical-py](https://github.com/Xecades/zju-ical-py?tab=readme-ov-file) | 基于 zju-ical 项目的 Python 重构版本 | GitHub | [Xecades](https://github.com/Xecades) |
+| [ZTA](https://github.com/wdtjm/zta) | 桌面端时间管理工具 | GitHub | [wdtjm (wdtjm)](https://github.com/wdtjm) |
 
 ## 🌐 校园网络与系统工具
 
