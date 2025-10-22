@@ -27,3 +27,4 @@ jobs:
           use-quiet-mode: 'yes'
           use-verbose-mode: 'no'
           folder-path: '.'
+          config-path: '.github/.markdown-link-check.json'

@@ -38,6 +38,7 @@
 ```shell
 autocorrect --fix README.md
 markdownlint --fix README.md
+markdown-link-check README.md
 ```
 
 ---
