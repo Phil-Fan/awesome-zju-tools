@@ -13,6 +13,7 @@
     - [网站类](#网站类)
     - [脚本类](#脚本类)
     - [部分 Web 插件](#部分-web-插件)
+  - [💡 AI 工具](#-ai-工具)
   - [⏰ 时间管理与日程同步](#-时间管理与日程同步)
   - [🌐 校园网络与系统工具](#-校园网络与系统工具)
   - [📓 资源、笔记与教程](#-资源笔记与教程)
@@ -21,6 +22,7 @@
   - [🧮 模板与写作工具](#-模板与写作工具)
     - [论文/实验报告模板](#论文实验报告模板)
     - [PPT/Slides](#pptslides)
+    - [绘图](#绘图)
   - [⚙️ ZJU Hacks](#️-zju-hacks)
   - [Contributing](#contributing)
   - [致谢](#致谢)
@@ -35,8 +37,8 @@
 |------|------|------|------|
 | [zju-learning-assistant](https://github.com/PeiPei233/zju-learning-assistant) | 快速下载整门课件、PPT、视频 | GitHub | [PeiPei233](https://github.com/PeiPei233) |
 | [fiz](https://github.com/CrazySpottedDove/fiz) | 高速简洁的学在浙大第三方 | GitHub | [CrazySpottedDove](https://github.com/CrazySpottedDove) |
-| [Quantum](https://github.com/XmmShp/Quantum)|服务于 ZJUers 的桌面端工具箱|GitHub|[XmmShp](https://github.com/XmmShp)|
-| [ZJU-MOTIS](https://github.com/xi2p/ZJU-MOTIS)|MOTIS 是一个适用于浙江大学学生的选课辅助系统。它能够帮你找出符合你意愿的最佳课表。|GitHub|[xi2p](https://github.com/xi2p)|
+| [Quantum](https://github.com/XmmShp/Quantum)| 服务于 ZJUers 的桌面端工具箱|GitHub|[XmmShp](https://github.com/XmmShp)|
+| [ZJU-MOTIS](https://github.com/xi2p/ZJU-MOTIS)| 选课辅助系统 |GitHub|[xi2p](https://github.com/xi2p)|
 
 ### 网站类
 
@@ -65,6 +67,12 @@
 | [Simple Allow Copy](https://chromewebstore.google.com/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc?hl=zh-cn) | 网页解除复制限制插件 |
 | [AdBlock](https://chromewebstore.google.com/detail/adblock-%E6%8B%A6%E6%88%AA%E6%95%B4%E4%B8%AA%E7%BD%91%E7%BB%9C%E7%9A%84%E5%B9%BF%E5%91%8A/gighmmpiobklfepjocnamgkkbiglidom?hl=zh-cn) | 广告拦截 |
 | [Vimium](https://vimium.github.io/) | 键盘浏览工具 |
+
+## 💡 AI 工具
+
+| 名称 | 简介 |
+|------|------|
+| [ZChat](https://chat.zchat.tech/) | AI 聊天工具 |
 
 ## ⏰ 时间管理与日程同步
 
@@ -116,6 +124,7 @@
 | [Overleaf 入门与 Latex 报告/作业模板](https://www.cc98.org/topic/5929587) | LaTeX 初学者指南 + 模板合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
 | [modern-zju-thesis](https://github.com/Shuenhoy/modern-zju-thesis) | 浙江大学 Typst 学位论文模版 | Github | [Shuenhoy](https://github.com/Shuenhoy) |
 | [ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template)|Yet another Zhejiang University project reports template written in Typst| Github| [memset0](https://github.com/memset0) |
+| [zju-typst-tplt](https://github.com/ethanpixar/zju-typst-tplt)| Typst template | Github | [ethanpixar](https://github.com/ethanpixar) |
 
 ### PPT/Slides
 
@@ -125,6 +134,14 @@
 | [浙大 PPT 模板分享](https://www.cc98.org/topic/5906507) | 求是蓝 / 答辩模板合集 | CC98 | [空山岁月老](https://www.cc98.org/user/id/654921) |
 | [Awesome PPTs](https://www.cc98.org/topic/6290594)| CC98 版面 PPT 制作帖合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
 | [ZJU-Beamer-Template](https://github.com/qychen2001/ZJU-Beamer-Template) | 一个更好看的浙江大学 Beamer 模板 | Github | [qychen2001](https://github.com/qychen2001) |
+
+### 绘图
+
+| 名称 | 简介 |
+|------|------|
+| [Excalidraw](https://excalidraw.com) | 在线白板/矢量手绘风画图工具 |
+| [Eraser](https://app.eraser.io/dashboard/all) | 团队协作绘图、流程图和头脑风暴工具 |
+| [draw.io](https://app.diagrams.net) | 免费流程图和图表绘制工具 |
 
 ## ⚙️ ZJU Hacks
 
