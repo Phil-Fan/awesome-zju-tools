@@ -18,6 +18,7 @@ jobs:
       - name: Markdown Lint
         uses: DavidAnson/markdownlint-cli2-action@v20
         with:
+          config: '.github/.markdownlint.json'
           globs: |
             README.md
       
