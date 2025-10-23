@@ -98,6 +98,7 @@
 | [zjunet](https://github.com/QSCTech/zjunet) | ZJU 校园网命令行工具（VPN / WLAN / DNS） | GitHub | [QSCTech](https://github.com/QSCTech) |
 | [zju-connect](https://github.com/Mythologyli/zju-connect) | ZJU RVPN 客户端的 Go 实现 | GitHub | [Mythologyli](https://github.com/Mythologyli) |
 | [ZJU-Rule](https://github.com/lizhist/ZJU-Rule) | ZJU Clash 分流规则 | GitHub | [lizhist](https://github.com/lizhist) |
+| [EZ4Connect](https://github.com/PageChen04/EZ4Connect) | 改进的 ZJU-Connect 图形界面（支持 macOS 和 Linux 系统） | GitHub | [PageChen04](https://github.com/PageChen04) |
 
 ## 📓 资源、笔记与教程
 
