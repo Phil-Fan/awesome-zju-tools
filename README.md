@@ -1,12 +1,13 @@
-# Awesome ZJU Tools
+# Awesome ZJU Tools 😎 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > 浙江大学生态圈中提高学习、科研与生活效率的工具、脚本与模版合集
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CC98 Forum](https://img.shields.io/badge/CC98-%E6%B5%99%E5%A4%A7%E8%AE%BA%E5%9D%9B-blue)](https://www.cc98.org) [![Stars](https://img.shields.io/github/stars/Phil-Fan/awesome-zju-tools.svg?style=flat)](https://github.com/Phil-Fan/awesome-zju-tools/stargazers) [![Forks](https://img.shields.io/github/forks/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/network/members) [![Issues](https://img.shields.io/github/issues/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Phil-Fan/awesome-zju-tools/blob/main/.github/CONTRIBUTING.md) [![Last Commit](https://img.shields.io/github/last-commit/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/commits/main) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://github.com/Phil-Fan/awesome-zju-tools/blob/main/LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![CC98 Forum](https://img.shields.io/badge/CC98-%E6%B5%99%E5%A4%A7%E8%AE%BA%E5%9D%9B-blue)](https://www.cc98.org)[![Stars](https://img.shields.io/github/stars/Phil-Fan/awesome-zju-tools.svg?style=flat)](https://github.com/Phil-Fan/awesome-zju-tools/stargazers)[![Forks](https://img.shields.io/github/forks/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/network/members)
+[![Issues](https://img.shields.io/github/issues/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/issues)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Phil-Fan/awesome-zju-tools/blob/main/.github/CONTRIBUTING.md)[![Last Commit](https://img.shields.io/github/last-commit/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/commits/main)[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://github.com/Phil-Fan/awesome-zju-tools/blob/main/LICENSE)
 
 ## 📘 目录
 
-- [Awesome ZJU Tools](#awesome-zju-tools)
+- [Awesome ZJU Tools 😎 ](#awesome-zju-tools--)
   - [📘 目录](#-目录)
   - [📚 学习与课程助手](#-学习与课程助手)
     - [软件类](#软件类)
@@ -71,7 +72,7 @@
 | [Global Speed](https://chromewebstore.google.com/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/jpbjcnkcffbooppibceonlgknpkniiff?hl=zh-cn) | 视频加速控制插件 |
 | [Simple Allow Copy](https://chromewebstore.google.com/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc?hl=zh-cn) | 网页解除复制限制插件 |
 | [AdBlock](https://chromewebstore.google.com/detail/adblock-%E6%8B%A6%E6%88%AA%E6%95%B4%E4%B8%AA%E7%BD%91%E7%BB%9C%E7%9A%84%E5%B9%BF%E5%91%8A/gighmmpiobklfepjocnamgkkbiglidom?hl=zh-cn) | 广告拦截 |
-| [uBlock Origin Lite - Chrome 应用商店](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=zh-cn)
+| [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=zh-cn)| 广告拦截 |
 | [Vimium](https://vimium.github.io/) | 键盘浏览工具 |
 
 ## 💡 AI 工具
@@ -134,9 +135,9 @@
 | [Overleaf 入门与 Latex 报告/作业模板](https://www.cc98.org/topic/5929587) | LaTeX 初学者指南 + 模板合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
 | [typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)| 将 Typora 伪装成 LaTeX 的中文样式主题 | GitHub | [Keldos-Li](https://github.com/Keldos-Li) |
 | [modern-zju-thesis](https://github.com/Shuenhoy/modern-zju-thesis) | 浙江大学 Typst 学位论文模版 | GitHub | [Shuenhoy](https://github.com/Shuenhoy) |
-| [ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template)|Yet another Zhejiang University project reports template written in Typst| GitHub| [memset0](https://github.com/memset0) |
+| [ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template)| Typst 项目报告模板 | GitHub| [memset0](https://github.com/memset0) |
 | [zju-typst-tplt](https://github.com/ethanpixar/zju-typst-tplt)| Typst template | GitHub | [ethanpixar](https://github.com/ethanpixar) |
-| [zju-bubble](https://github.com/inuEbisu/bubble-zju) | 简洁现代的浙江大学 Typst 模板 | GitHub | [inuEbisu](https://github.com/inuEbisu) |
+| [zju-bubble](https://github.com/inuEbisu/bubble-zju) | 简洁现代的浙江大学 Typst 模板 | GitHub | [犬戎](https://github.com/inuEbisu) |
 
 ### PPT/Slides
 
@@ -146,7 +147,7 @@
 | [浙大 PPT 模板分享](https://www.cc98.org/topic/5906507) | 求是蓝 / 答辩模板合集 | CC98 | [空山岁月老](https://www.cc98.org/user/id/654921) |
 | [Awesome PPTs](https://www.cc98.org/topic/6290594)| CC98 版面 PPT 制作帖合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
 | [ZJU-Beamer-Template](https://github.com/qychen2001/ZJU-Beamer-Template) | 一个更好看的浙江大学 Beamer 模板 | GitHub | [qychen2001](https://github.com/qychen2001) |
-| [SlideTemplate](https://github.com/inuEbisu/SlideTemplate) | 犬戎的 MkSlides 模板 | GitHub | [inuEbisu](https://github.com/inuEbisu) |
+| [SlideTemplate](https://github.com/inuEbisu/SlideTemplate) | MkSlides 模板 | GitHub | [犬戎](https://github.com/inuEbisu) |
 
 ### 绘图
 
@@ -162,7 +163,7 @@
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
-| [WuliAPO/Fuck_QCZJ](https://github.com/WuliAPO/Fuck_QCZJ) | 青年大学习打卡 | GitHub | [WuliAPO](https://github.com/WuliAPO) |
+| [Fuck_QCZJ](https://github.com/WuliAPO/Fuck_QCZJ) | 青年大学习打卡 | GitHub | [WuliAPO](https://github.com/WuliAPO) |
 | [iOSRealRun-cli-17](https://github.com/iOSRealRun/iOSRealRun-cli-17) | (iOS 17+) 虚拟定位免越狱跑步打卡，支持随机速度与路线 | GitHub | [iOSRealRun](https://github.com/iOSRealRun) |
 | [iOSFakeRun](https://github.com/Mythologyli/iOSFakeRun) | iOS 虚拟跑步模拟，支持循环与随机路线 | GitHub | [Mythologyli](https://github.com/Mythologyli) |
 | [fuckZHS](https://github.com/VermiIIi0n/fuckZHS) | 自动刷智慧树课程脚本 | GitHub | [VermiIIi0n](https://github.com/VermiIIi0n) |
