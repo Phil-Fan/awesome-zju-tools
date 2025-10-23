@@ -111,7 +111,7 @@
 | [zju-welcome](https://github.com/kaixuanwang2003/zju-welcome), [website](https://zjuers.com/welcome/) | 浙江大学新生入学指南 | Github |
 | [图灵班学习指南](https://zju-turing.github.io/TuringCourses/) | 图灵班学习指南 | Github |
 | [EEStUdy-Place](https://github.com/ZJU-EESUAD/EEStUdy-Place) | 浙江大学电气工程学院学习网站 | Github |
-| [IsshikiHugh/zju-cs-asio](https://github.com/IsshikiHugh/zju-cs-asio) | 收集 ZJU-CS 相关网站与学习资料索引 | GitHub |
+| [IsshikiHugh/zju-cs-asio](https://github.com/IsshikiHugh/zju-cs-asio), [website](https://isshikihugh.github.io/zju-cs-asio/) | 收集 ZJU-CS 相关网站与学习资料索引 | GitHub |
 
 ## 🧮 模板与写作工具
 
