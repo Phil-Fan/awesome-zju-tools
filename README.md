@@ -136,6 +136,7 @@
 | [modern-zju-thesis](https://github.com/Shuenhoy/modern-zju-thesis) | 浙江大学 Typst 学位论文模版 | Github | [Shuenhoy](https://github.com/Shuenhoy) |
 | [ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template)|Yet another Zhejiang University project reports template written in Typst| Github| [memset0](https://github.com/memset0) |
 | [zju-typst-tplt](https://github.com/ethanpixar/zju-typst-tplt)| Typst template | Github | [ethanpixar](https://github.com/ethanpixar) |
+| [zju-bubble](https://github.com/inuEbisu/bubble-zju) | 简洁现代的浙江大学 Typst 模板 | GitHub | [inuEbisu](https://github.com/inuEbisu) |
 
 ### PPT/Slides
 
@@ -145,6 +146,7 @@
 | [浙大 PPT 模板分享](https://www.cc98.org/topic/5906507) | 求是蓝 / 答辩模板合集 | CC98 | [空山岁月老](https://www.cc98.org/user/id/654921) |
 | [Awesome PPTs](https://www.cc98.org/topic/6290594)| CC98 版面 PPT 制作帖合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
 | [ZJU-Beamer-Template](https://github.com/qychen2001/ZJU-Beamer-Template) | 一个更好看的浙江大学 Beamer 模板 | Github | [qychen2001](https://github.com/qychen2001) |
+| [SlideTemplate](https://github.com/inuEbisu/SlideTemplate) | 犬戎的 MkSlides 模板 | GitHub | [inuEbisu](https://github.com/inuEbisu) |
 
 ### 绘图
 
@@ -170,6 +172,7 @@
 | [迎新系统测试](https://www.cc98.org/topic/6249309/1#1) | 一键通过研究生迎新系统中学术规范和安全测试 | CC98 | [方の馒头](https://www.cc98.org/user/id/785112) |
 | [Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 | GitHub | [IshiKura-a](https://github.com/IshiKura-a) |
 | [evilScripts](https://github.com/ShawHaines/evilScripts) | CC98 / NexusHD 自动签到脚本 | GitHub | [ShawHaines](https://github.com/ShawHaines) |
+| [CC98Autosign](https://github.com/inuEbisu/CC98Autosign) | CC98 自动签到 Python 脚本 | GitHub | [犬戎](https://github.com/inuEbisu) |
 
 ## 🌐 其他
 
