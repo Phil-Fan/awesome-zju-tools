@@ -124,6 +124,7 @@
 | [图灵班学习指南](https://zju-turing.github.io/TuringCourses/) | 图灵班学习指南 | GitHub |
 | [IsshikiHugh/zju-cs-asio](https://isshikihugh.github.io/zju-cs-asio/)(all sum in one) | 收集 ZJU-CS 相关网站与学习资料索引 | GitHub |
 | [EEStUdy-Place](https://github.com/ZJU-EESUAD/EEStUdy-Place) | 浙江大学电气工程学院学习网站 | GitHub |
+| [数学之韵](https://zju_math.pages.zjusct.io/mathweb/) | 数学专业课程经验与学习资料共享 | [ZJU Git](https://git.zju.edu.cn/zju_math/mathweb) |
 
 ## 🧮 模板与写作工具
 
@@ -212,4 +213,4 @@
 
 以及 Contributors:
 
-![Contributors](https://contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)
+[![Contributors](https://contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)](https://contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)
