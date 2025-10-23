@@ -116,7 +116,6 @@
 | [路老师的 nonsense collection](https://mp.weixin.qq.com/s/-hBAeed1AWT35l6Xc5svXQ)| 微积分相关资源 | 公众号 |
 | [Randall 爱数学](https://mp.weixin.qq.com/s/M6ulC2ljYVDZ2mqXJRST-Q) | 线代答案、回忆卷相关资源 | 公众号 |
 
-
 ### 笔记/教程类
 
 | 名称 | 简介 | 来源 |
