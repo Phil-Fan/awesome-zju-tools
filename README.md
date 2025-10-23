@@ -71,6 +71,7 @@
 | [Global Speed](https://chromewebstore.google.com/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/jpbjcnkcffbooppibceonlgknpkniiff?hl=zh-cn) | 视频加速控制插件 |
 | [Simple Allow Copy](https://chromewebstore.google.com/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc?hl=zh-cn) | 网页解除复制限制插件 |
 | [AdBlock](https://chromewebstore.google.com/detail/adblock-%E6%8B%A6%E6%88%AA%E6%95%B4%E4%B8%AA%E7%BD%91%E7%BB%9C%E7%9A%84%E5%B9%BF%E5%91%8A/gighmmpiobklfepjocnamgkkbiglidom?hl=zh-cn) | 广告拦截 |
+| [uBlock Origin Lite - Chrome 应用商店](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=zh-cn)
 | [Vimium](https://vimium.github.io/) | 键盘浏览工具 |
 
 ## 💡 AI 工具
@@ -177,7 +178,7 @@
 |------|------|------|
 | [ZJU 轻首页](https://zjuers.com/) | 浙江大学轻量级导航主页 | Web |
 | [ZJU Git](https://git.zju.edu.cn) | 浙江大学 GitLab | Web |
-| [ZJU 开源镜像](https://mirrors.zju.edu.cn/) | 浙江大学开源镜像站 | Web |
+| [ZJU Mirror](https://mirrors.zju.edu.cn/) | 浙江大学开源镜像站 | Web |
 
 ### 软件
 
