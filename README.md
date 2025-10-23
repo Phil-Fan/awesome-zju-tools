@@ -24,7 +24,9 @@
     - [PPT/Slides](#pptslides)
     - [绘图](#绘图)
   - [⚙️ ZJU Hacks](#️-zju-hacks)
-  - [🌐 常用网站](#-常用网站)
+  - [🌐 其他](#-其他)
+    - [网站](#网站)
+    - [软件](#软件)
   - [Contributing](#contributing)
   - [致谢](#致谢)
 
@@ -40,6 +42,7 @@
 | [fiz](https://github.com/CrazySpottedDove/fiz) | 高速简洁的学在浙大第三方 | GitHub | [CrazySpottedDove](https://github.com/CrazySpottedDove) |
 | [Quantum](https://github.com/XmmShp/Quantum)| 服务于 ZJUers 的桌面端工具箱|GitHub|[XmmShp](https://github.com/XmmShp)|
 | [ZJU-MOTIS](https://github.com/xi2p/ZJU-MOTIS)| 选课辅助系统 |GitHub|[xi2p](https://github.com/xi2p)|
+| [chalaoshi](https://github.com/zjuchalaoshi/chalaoshi?tab=readme-ov-file)| 匿名评教工具 | GitHub | [zjuchalaoshi](https://github.com/zjuchalaoshi)|
 
 ### 网站类
 
@@ -58,6 +61,9 @@
 | [智云课堂批量下载](https://greasyfork.org/zh-CN/scripts/514465-%E6%99%BA%E4%BA%91%E8%AF%BE%E5%A0%82%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD) | 批量下载课程视频的脚本 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [学在浙大待办事项链接修复](https://greasyfork.org/zh-CN/scripts/513507-%E5%AD%A6%E5%9C%A8%E6%B5%99%E5%A4%A7%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9%E9%93%BE%E6%8E%A5%E4%BF%AE%E5%A4%8D) | 学在浙大待办事项链接修复 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [智云课堂搜索显示学期](https://greasyfork.org/zh-CN/scripts/498824-%E6%99%BA%E4%BA%91%E8%AF%BE%E5%A0%82%E6%90%9C%E7%B4%A2%E6%98%BE%E7%A4%BA%E5%AD%A6%E6%9C%9F) | 优化课程搜索体验 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
+| [教学管理一键评教](https://greasyfork.org/zh-CN/scripts/498990-%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E6%95%99%E5%AD%A6%E7%AE%A1%E7%90%86%E4%B8%80%E9%94%AE%E8%AF%84%E6%95%99) | 一键评教 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
+| [速刷新中特教学视频](https://www.cc98.org/topic/6003813) | 一键刷新中特教学视频 | CC98 | [吃个诸葛亮](https://www.cc98.org/user/id/613815) |
+| [迎新系统测试](https://www.cc98.org/topic/6249309/1#1) | 一键通过研究生迎新系统中学术规范和安全测试 | CC98 | [方の馒头](https://www.cc98.org/user/id/785112) |
 
 ### 部分 Web 插件
 
@@ -105,15 +111,17 @@
 | [CourseNoteOfZJUSE](https://github.com/Zhang-Each/CourseNoteOfZJUSE) | ZJU-SE 的一些课程笔记、历年卷、课程经历分享 | GitHub |
 | [ZJU-EE](https://github.com/alwaysbyx/ZJU-EE) | 浙江大学电气工程学院（自动化）课程指南 | GitHub |
 | [ZJU_Course](https://github.com/RyanFcr/ZJU_Course?tab=readme-ov-file) | 个人计算机课程资料整理（浙大 CS 专业） | GitHub |
+| [一起学习德智体](https://mp.weixin.qq.com/s/AebEozF9Xemqb1BfIFLayg)| 电气工程专业个人资源站 | 公众号 |
+| [路老师的 nonsense collection](https://mp.weixin.qq.com/s/-hBAeed1AWT35l6Xc5svXQ)| 微积分、线代、概统相关资源 | 公众号 |
 
 ### 笔记/教程类
 
 | 名称 | 简介 | 来源 |
 |------|------|------|
-| [zju-welcome](https://github.com/kaixuanwang2003/zju-welcome), [website](https://zjuers.com/welcome/) | 浙江大学新生入学指南 | Github |
+| [zju-welcome](https://zjuers.com/welcome/) | 浙江大学新生入学指南 | Github |
 | [图灵班学习指南](https://zju-turing.github.io/TuringCourses/) | 图灵班学习指南 | Github |
+| [IsshikiHugh/zju-cs-asio](https://isshikihugh.github.io/zju-cs-asio/)(all sum in one) | 收集 ZJU-CS 相关网站与学习资料索引 | GitHub |
 | [EEStUdy-Place](https://github.com/ZJU-EESUAD/EEStUdy-Place) | 浙江大学电气工程学院学习网站 | Github |
-| [IsshikiHugh/zju-cs-asio](https://github.com/IsshikiHugh/zju-cs-asio), [website](https://isshikihugh.github.io/zju-cs-asio/) | 收集 ZJU-CS 相关网站与学习资料索引 | GitHub |
 
 ## 🧮 模板与写作工具
 
@@ -122,8 +130,9 @@
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
 | [zjuthesis](https://github.com/TheNetAdmin/zjuthesis) | 浙大毕业论文 LaTeX 模板 | GitHub | [TheNetAdmin](https://github.com/TheNetAdmin) |
-|[zjureport](https://github.com/megrxu/zjureport)| 一份浙江大学 LaTeX 实验报告模板 | Github | [megrxu](https://github.com/megrxu) |
+| [zjureport](https://github.com/megrxu/zjureport)| 一份浙江大学 LaTeX 实验报告模板 | Github | [megrxu](https://github.com/megrxu) |
 | [Overleaf 入门与 Latex 报告/作业模板](https://www.cc98.org/topic/5929587) | LaTeX 初学者指南 + 模板合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
+| [typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)| 将 Typora 伪装成 LaTeX 的中文样式主题 | Github | [Keldos-Li](https://github.com/Keldos-Li) |
 | [modern-zju-thesis](https://github.com/Shuenhoy/modern-zju-thesis) | 浙江大学 Typst 学位论文模版 | Github | [Shuenhoy](https://github.com/Shuenhoy) |
 | [ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template)|Yet another Zhejiang University project reports template written in Typst| Github| [memset0](https://github.com/memset0) |
 | [zju-typst-tplt](https://github.com/ethanpixar/zju-typst-tplt)| Typst template | Github | [ethanpixar](https://github.com/ethanpixar) |
@@ -159,19 +168,27 @@
 | [IshiKura-a/Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 |
 | [ginnnnnncc/GinsMooc](https://github.com/ginnnnnncc/GinsMooc) | 中国大学 MOOC 自动答题插件 |
 
-## 🌐 常用网站
+## 🌐 其他
+
+### 网站
 
 | 名称 | 简介 | 来源 |
 |------|------|------|
-| [ZJU轻首页](https://zjuers.com/) | 浙江大学轻量级导航主页 | Web |
-| [ZJU Git](https://git.zju.edu.cn) | 浙江大学GitLab | Web |
-| [ZJU开源镜像](https://mirrors.zju.edu.cn/) | 浙江大学开源镜像站 | Web |
+| [ZJU 轻首页](https://zjuers.com/) | 浙江大学轻量级导航主页 | Web |
+| [ZJU Git](https://git.zju.edu.cn) | 浙江大学 GitLab | Web |
+| [ZJU 开源镜像](https://mirrors.zju.edu.cn/) | 浙江大学开源镜像站 | Web |
+
+### 软件
+
+| 名称 | 简介 | 来源 | 作者/发起人 |
+|------|------|------|------|
+| [CC98-Desktop](https://github.com/Ginsenvey/CC98-Desktop) | CC98 的 Windows 11 桌面客户端，基于 Win UI3 构建。 | GitHub | [Ginsenvey](https://github.com/Ginsenvey) |
 
 ## Contributing
 
 欢迎贡献更多 ZJU 效率工具与资源！  
 
-你可以参照 [贡献指南](contributing.md) 提交 Pull Request，或在 Issues 中推荐。
+你可以参照 [贡献指南](.github/CONTRIBUTING.md) 提交 Pull Request，或在 Issues 中推荐。
 
 如果项目对你有帮助，⭐ Star 一下以支持项目更新！
 

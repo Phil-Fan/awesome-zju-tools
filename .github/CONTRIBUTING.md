@@ -30,17 +30,26 @@
   - 确保链接有效；  
   - 保持排版与已有部分一致。
 
-使用下面的工具进行检查：
+  使用下面的工具进行检查：
 
-- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/)
-- [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
-- [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
+  - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/)
+  - [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
 
-```shell
-autocorrect --fix README.md
-markdownlint --fix README.md
-markdown-link-check README.md
-```
+  ```shell
+  autocorrect --fix README.md
+  markdownlint --fix README.md
+  ```
+
+- 🔗 **链接有效**：
+  请确保链接有效，避免404或无法访问。
+  
+  可以使用下面的工具进行检查：
+  
+  - [markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
+  
+  ```shell
+  markdown-link-check README.md
+  ```
 
 ---
 
@@ -49,7 +58,8 @@ markdown-link-check README.md
 1. Fork 本仓库；
 2. 新建一个分支（如 `add-new-tool`）；
 3. 在合适分类中添加你的内容；
-4. 提交 Pull Request。
+4. 根据 [提交前请检查以下内容](#提交前请检查以下内容) 检查你的提交；
+5. 提交 Pull Request，等待审核。
 
 如果只是建议添加某个项目，也可以直接开一个 Issue，格式如下：
 
