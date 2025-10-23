@@ -167,6 +167,7 @@
 | [速刷新中特教学视频](https://www.cc98.org/topic/6003813) | 一键刷新中特教学视频 | CC98 | [吃个诸葛亮](https://www.cc98.org/user/id/613815) |
 | [迎新系统测试](https://www.cc98.org/topic/6249309/1#1) | 一键通过研究生迎新系统中学术规范和安全测试 | CC98 | [方の馒头](https://www.cc98.org/user/id/785112) |
 | [Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 | GitHub | [IshiKura-a](https://github.com/IshiKura-a) |
+| [evilScripts](https://github.com/ShawHaines/evilScripts) | CC98 / NexusHD 自动签到脚本 | GitHub | [ShawHaines](https://github.com/ShawHaines) |
 
 ## 🌐 其他
 
