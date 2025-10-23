@@ -111,7 +111,7 @@
 | [ZJU-EE](https://github.com/alwaysbyx/ZJU-EE) | 浙江大学电气工程学院（自动化）课程指南 | GitHub |
 | [ZJU_Course](https://github.com/RyanFcr/ZJU_Course?tab=readme-ov-file) | 个人计算机课程资料整理（浙大 CS 专业） | GitHub |
 | [一起学习德智体](https://mp.weixin.qq.com/s/AebEozF9Xemqb1BfIFLayg)| 电气工程专业个人资源站 | 公众号 |
-| [路老师的 nonsense collection](https://mp.weixin.qq.com/s/-hBAeed1AWT35l6Xc5svXQ)| 微积分、线代、概统相关资源 | 公众号 |
+| [路老师的 nonsense collection](https://mp.weixin.qq.com/s/-hBAeed1AWT35l6Xc5svXQ)| 微积分相关资源 | 公众号 |
 | [Randall 爱数学](https://mp.weixin.qq.com/s/M6ulC2ljYVDZ2mqXJRST-Q) | 线代答案、回忆卷相关资源 | 公众号 |
 
 ### 笔记/教程类
