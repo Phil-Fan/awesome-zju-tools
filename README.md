@@ -62,8 +62,7 @@
 | [学在浙大待办事项链接修复](https://greasyfork.org/zh-CN/scripts/513507-%E5%AD%A6%E5%9C%A8%E6%B5%99%E5%A4%A7%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9%E9%93%BE%E6%8E%A5%E4%BF%AE%E5%A4%8D) | 学在浙大待办事项链接修复 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [智云课堂搜索显示学期](https://greasyfork.org/zh-CN/scripts/498824-%E6%99%BA%E4%BA%91%E8%AF%BE%E5%A0%82%E6%90%9C%E7%B4%A2%E6%98%BE%E7%A4%BA%E5%AD%A6%E6%9C%9F) | 优化课程搜索体验 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [教学管理一键评教](https://greasyfork.org/zh-CN/scripts/498990-%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E6%95%99%E5%AD%A6%E7%AE%A1%E7%90%86%E4%B8%80%E9%94%AE%E8%AF%84%E6%95%99) | 一键评教 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
-| [速刷新中特教学视频](https://www.cc98.org/topic/6003813) | 一键刷新中特教学视频 | CC98 | [吃个诸葛亮](https://www.cc98.org/user/id/613815) |
-| [迎新系统测试](https://www.cc98.org/topic/6249309/1#1) | 一键通过研究生迎新系统中学术规范和安全测试 | CC98 | [方の馒头](https://www.cc98.org/user/id/785112) |
+
 
 ### 部分 Web 插件
 
@@ -158,15 +157,17 @@
 
 > ⚠️⚠️⚠️ **声明：以下脚本仅供学习与研究使用，请勿用于违反校规或相关平台条款的行为。本仓库不保证脚本的安全性、合法性，使用者需自行承担风险。**
 
-| 项目 | 简介 |
-|------|------|
-| [WuliAPO/Fuck_QCZJ](https://github.com/WuliAPO/Fuck_QCZJ) | 青年大学习打卡 |
-| [iOSRealRun/iOSRealRun-cli-17](https://github.com/iOSRealRun/iOSRealRun-cli-17) | (iOS 17+) 虚拟定位免越狱跑步打卡，支持随机速度与路线 |
-| [Mythologyli/iOSFakeRun](https://github.com/Mythologyli/iOSFakeRun) | iOS 虚拟跑步模拟，支持循环与随机路线 |
-| [VermiIIi0n/fuckZHS](https://github.com/VermiIIi0n/fuckZHS) | 自动刷智慧树课程脚本 |
-| [OCS 网课助手](https://docs.ocsjs.com/docs/quickly-start/) | 刷 MOOC / 智慧树 自动化工具 |
-| [IshiKura-a/Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 |
-| [ginnnnnncc/GinsMooc](https://github.com/ginnnnnncc/GinsMooc) | 中国大学 MOOC 自动答题插件 |
+| 名称 | 简介 | 来源 | 作者/发起人 |
+|------|------|------|------|
+| [WuliAPO/Fuck_QCZJ](https://github.com/WuliAPO/Fuck_QCZJ) | 青年大学习打卡 | GitHub | [WuliAPO](https://github.com/WuliAPO) |
+| [iOSRealRun-cli-17](https://github.com/iOSRealRun/iOSRealRun-cli-17) | (iOS 17+) 虚拟定位免越狱跑步打卡，支持随机速度与路线 | GitHub | [iOSRealRun](https://github.com/iOSRealRun) |
+| [iOSFakeRun](https://github.com/Mythologyli/iOSFakeRun) | iOS 虚拟跑步模拟，支持循环与随机路线 | GitHub | [Mythologyli](https://github.com/Mythologyli) |
+| [fuckZHS](https://github.com/VermiIIi0n/fuckZHS) | 自动刷智慧树课程脚本 | GitHub | [VermiIIi0n](https://github.com/VermiIIi0n) |
+| [OCS 网课助手](https://docs.ocsjs.com/docs/quickly-start/) | 刷 MOOC / 智慧树 自动化工具 | Web | [OCSjs](https://github.com/ocsjs) |
+| [GinsMooc](https://github.com/ginnnnnncc/GinsMooc) | 中国大学 MOOC 自动答题插件 | GitHub | [ginnnnnncc](https://github.com/ginnnnnncc) |
+| [速刷新中特教学视频](https://www.cc98.org/topic/6003813) | 一键刷新中特教学视频 | CC98 | [吃个诸葛亮](https://www.cc98.org/user/id/613815) |
+| [迎新系统测试](https://www.cc98.org/topic/6249309/1#1) | 一键通过研究生迎新系统中学术规范和安全测试 | CC98 | [方の馒头](https://www.cc98.org/user/id/785112) |
+| [Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 | GitHub | [IshiKura-a](https://github.com/IshiKura-a) |
 
 ## 🌐 其他
 
