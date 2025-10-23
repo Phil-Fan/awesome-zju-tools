@@ -1,4 +1,4 @@
-# Awesome ZJU Tools 😎 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome ZJU Tools 😎[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > 浙江大学生态圈中提高学习、科研与生活效率的工具、脚本与模版合集
 
@@ -7,7 +7,7 @@
 
 ## 📘 目录
 
-- [Awesome ZJU Tools 😎 ](#awesome-zju-tools--)
+- [Awesome ZJU Tools 😎](#awesome-zju-tools-)
   - [📘 目录](#-目录)
   - [📚 学习与课程助手](#-学习与课程助手)
     - [软件类](#软件类)
@@ -36,7 +36,7 @@
 ## 📚 学习与课程助手
 
 ### 软件类
-
+H
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
 | [zju-learning-assistant](https://github.com/PeiPei233/zju-learning-assistant) | 快速下载整门课件、PPT、视频 | GitHub | [PeiPei233](https://github.com/PeiPei233) |
