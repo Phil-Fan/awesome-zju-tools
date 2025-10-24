@@ -44,6 +44,7 @@
 | [Quantum](https://github.com/XmmShp/Quantum)| 服务于 ZJUers 的桌面端工具箱|GitHub|[XmmShp](https://github.com/XmmShp)|
 | [ZJU-MOTIS](https://github.com/xi2p/ZJU-MOTIS)| 选课辅助系统 |GitHub|[xi2p](https://github.com/xi2p)|
 | [chalaoshi](https://github.com/zjuchalaoshi/chalaoshi?tab=readme-ov-file)| 匿名评教工具 | GitHub | [zjuchalaoshi](https://github.com/zjuchalaoshi)|
+| [EasySpider](https://github.com/NaiboWang/EasySpider) | 可视化浏览器自动化测试/数据采集/爬虫软件 | GitHub | [NaiboWang](https://github.com/NaiboWang) |
 
 ### 网站类
 
@@ -63,6 +64,7 @@
 | [学在浙大待办事项链接修复](https://greasyfork.org/zh-CN/scripts/513507-%E5%AD%A6%E5%9C%A8%E6%B5%99%E5%A4%A7%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9%E9%93%BE%E6%8E%A5%E4%BF%AE%E5%A4%8D) | 学在浙大待办事项链接修复 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [智云课堂搜索显示学期](https://greasyfork.org/zh-CN/scripts/498824-%E6%99%BA%E4%BA%91%E8%AF%BE%E5%A0%82%E6%90%9C%E7%B4%A2%E6%98%BE%E7%A4%BA%E5%AD%A6%E6%9C%9F) | 优化课程搜索体验 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [教学管理一键评教](https://greasyfork.org/zh-CN/scripts/498990-%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E6%95%99%E5%AD%A6%E7%AE%A1%E7%90%86%E4%B8%80%E9%94%AE%E8%AF%84%E6%95%99) | 一键评教 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
+| [website-converter](https://github.com/Slowist-Lee/website-converter) | WebVPN 链接转换器 | GitHub | [Slowist-Lee](https://github.com/Slowist-Lee) |
 
 ### 部分 Web 插件
 
@@ -79,7 +81,7 @@
 
 | 名称 | 简介 |
 |------|------|
-| [ZChat](https://chat.zchat.tech/) | AI 聊天工具 |
+| [ZChat](https://zchat.tech) | AI 聊天工具 |
 | [浙大大先生](https://chat.zju.edu.cn/login) | AI 聊天工具 |
 
 ## ⏰ 时间管理与日程同步
@@ -139,8 +141,8 @@
 | [typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)| 将 Typora 伪装成 LaTeX 的中文样式主题 | GitHub | [Keldos-Li](https://github.com/Keldos-Li) |
 | [modern-zju-thesis](https://github.com/Shuenhoy/modern-zju-thesis) | 浙江大学 Typst 学位论文模版 | GitHub | [Shuenhoy](https://github.com/Shuenhoy) |
 | [ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template)| Typst 项目报告模板 | GitHub| [memset0](https://github.com/memset0) |
-| [zju-typst-tplt](https://github.com/ethanpixar/zju-typst-tplt)| Typst template | GitHub | [ethanpixar](https://github.com/ethanpixar) |
-| [zju-bubble](https://github.com/inuEbisu/bubble-zju) | 简洁现代的浙江大学 Typst 模板 | GitHub | [犬戎](https://github.com/inuEbisu) |
+| [zju-typst-tplt](https://github.com/ethanpixar/zju-typst-tplt)| 报告、作业、短文、笔记 Typst 四合一模版 | GitHub | [ethanpixar](https://github.com/ethanpixar) |
+| [zju-bubble](https://github.com/inuEbisu/bubble-zju) | 简洁现代的浙江大学 Typst 模版 | GitHub | [犬戎](https://github.com/inuEbisu) |
 
 ### PPT/Slides
 
@@ -177,6 +179,7 @@
 | [Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 | GitHub | [IshiKura-a](https://github.com/IshiKura-a) |
 | [evilScripts](https://github.com/ShawHaines/evilScripts) | CC98 / NexusHD 自动签到脚本 | GitHub | [ShawHaines](https://github.com/ShawHaines) |
 | [CC98Autosign](https://github.com/inuEbisu/CC98Autosign) | CC98 自动签到 Python 脚本 | GitHub | [犬戎](https://github.com/inuEbisu) |
+| [yacu](https://greasyfork.org/zh-CN/scripts/438399-yacu-yet-another-cc98-userscript) | CC98 风评统计、屏蔽 | CC98 | [CoolSpring](https://www.cc98.org/user/id/602214) |
 
 ## 🌐 其他
 
@@ -187,6 +190,7 @@
 | [ZJU 轻首页](https://zjuers.com/) | 浙江大学轻量级导航主页 | Web |
 | [ZJU Git](https://git.zju.edu.cn) | 浙江大学 GitLab | Web |
 | [ZJU Mirror](https://mirrors.zju.edu.cn/) | 浙江大学开源镜像站 | Web |
+| [ZJU School-Bus](https://zjusec.com/) | 浙江大学 CTF 练习平台 | Web |
 
 ### 软件
 
