@@ -64,6 +64,7 @@
 | [学在浙大待办事项链接修复](https://greasyfork.org/zh-CN/scripts/513507-%E5%AD%A6%E5%9C%A8%E6%B5%99%E5%A4%A7%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9%E9%93%BE%E6%8E%A5%E4%BF%AE%E5%A4%8D) | 学在浙大待办事项链接修复 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [智云课堂搜索显示学期](https://greasyfork.org/zh-CN/scripts/498824-%E6%99%BA%E4%BA%91%E8%AF%BE%E5%A0%82%E6%90%9C%E7%B4%A2%E6%98%BE%E7%A4%BA%E5%AD%A6%E6%9C%9F) | 优化课程搜索体验 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [教学管理一键评教](https://greasyfork.org/zh-CN/scripts/498990-%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E6%95%99%E5%AD%A6%E7%AE%A1%E7%90%86%E4%B8%80%E9%94%AE%E8%AF%84%E6%95%99) | 一键评教 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
+| [智云导出 ppt 和字幕组合](https://github.com/Auspiow/zhiyun-extension) | 智云课堂辅助脚本 | GitHub | [Auspiow](https://github.com/Auspiow) |
 | [website-converter](https://github.com/Slowist-Lee/website-converter) | WebVPN 链接转换器 | GitHub | [Slowist-Lee](https://github.com/Slowist-Lee) |
 
 ### 部分 Web 插件
