@@ -44,7 +44,7 @@
 | [fiz](https://github.com/CrazySpottedDove/fiz) | 高速简洁的学在浙大第三方 | GitHub ![GitHub stars](https://img.shields.io/github/stars/CrazySpottedDove/fiz?style=social) | [CrazySpottedDove](https://github.com/CrazySpottedDove) |
 | [Quantum](https://github.com/XmmShp/Quantum) | 服务于 ZJUers 的桌面端工具箱 | GitHub ![GitHub stars](https://img.shields.io/github/stars/XmmShp/Quantum?style=social) | [XmmShp](https://github.com/XmmShp) |
 | [ZJU-MOTIS](https://github.com/xi2p/ZJU-MOTIS) | 选课辅助系统 | GitHub ![GitHub stars](https://img.shields.io/github/stars/xi2p/ZJU-MOTIS?style=social) | [xi2p](https://github.com/xi2p) |
-| [chalaoshi](https://github.com/zjuchalaoshi/chalaoshi?tab=readme-ov-file) | 匿名评教工具 | GitHub ![GitHub stars](https://img.shields.io/github/stars/zjuchalaoshi/chalaoshi?style=social) | [zjuchalaoshi](https://github.com/zjuchalaoshi) |
+| [chalaoshi](https://github.com/zjuchalaoshi/chalaoshi?tab=readme-ov-file) ※ | 匿名评教工具 | GitHub ![GitHub stars](https://img.shields.io/github/stars/zjuchalaoshi/chalaoshi?style=social) | [zjuchalaoshi](https://github.com/zjuchalaoshi) |
 | [EasySpider](https://github.com/NaiboWang/EasySpider) | 可视化浏览器自动化测试/数据采集/爬虫软件 | GitHub ![GitHub stars](https://img.shields.io/github/stars/NaiboWang/EasySpider?style=social) | [NaiboWang](https://github.com/NaiboWang) |
 
 ### 网站类
@@ -216,12 +216,13 @@
 
 ## 致谢
 
-- 感谢[黎辉 - 学习天地工具与插件合集](https://www.cc98.org/topic/6054386)为项目提供灵感。
-- 感谢[dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list)
+- 感谢 [黎辉 - 学习天地工具与插件合集](https://www.cc98.org/topic/6054386)为项目提供灵感。
+- 感谢 [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list)
 - 本项目使用了[huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/),[DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)与[gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)进行自动化检查。
 - 感谢 CC98 论坛[学习天地](https://www.cc98.org/board/68)与[编程技术](https://www.cc98.org/board/105)版面。
 - 感谢[Goya-ye](https://github.com/Goya-ye),[Zefiro380](https://www.cc98.org/user/id/784931),[Saoji](https://www.cc98.org/user/id/702983),[齐次](https://www.cc98.org/user/id/724283),[3200101971](https://www.cc98.org/user/id/648740),[loyu_Nemo](https://www.cc98.org/user/id/668186),[红豆糕糕糕](https://www.cc98.org/user/id/706456) 等用户对于项目的建议。
-- 感谢[Text to ASCII Art Generator](https://patorjk.com/software/taag/)
+- 感谢 [Text to ASCII Art Generator](https://patorjk.com/software/taag/)
+- 感谢 [shields.io](https://shields.io)
 
 以及 Contributors:
 
