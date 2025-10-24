@@ -44,6 +44,7 @@
 | [Quantum](https://github.com/XmmShp/Quantum)| 服务于 ZJUers 的桌面端工具箱|GitHub|[XmmShp](https://github.com/XmmShp)|
 | [ZJU-MOTIS](https://github.com/xi2p/ZJU-MOTIS)| 选课辅助系统 |GitHub|[xi2p](https://github.com/xi2p)|
 | [chalaoshi](https://github.com/zjuchalaoshi/chalaoshi?tab=readme-ov-file)| 匿名评教工具 | GitHub | [zjuchalaoshi](https://github.com/zjuchalaoshi)|
+| [EasySpider](https://github.com/NaiboWang/EasySpider) | 可视化浏览器自动化测试/数据采集/爬虫软件 | GitHub | [NaiboWang](https://github.com/NaiboWang) |
 
 ### 网站类
 
@@ -64,6 +65,7 @@
 | [智云课堂搜索显示学期](https://greasyfork.org/zh-CN/scripts/498824-%E6%99%BA%E4%BA%91%E8%AF%BE%E5%A0%82%E6%90%9C%E7%B4%A2%E6%98%BE%E7%A4%BA%E5%AD%A6%E6%9C%9F) | 优化课程搜索体验 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [教学管理一键评教](https://greasyfork.org/zh-CN/scripts/498990-%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E6%95%99%E5%AD%A6%E7%AE%A1%E7%90%86%E4%B8%80%E9%94%AE%E8%AF%84%E6%95%99) | 一键评教 | CC98 | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [智云导出 ppt 和字幕组合](https://github.com/Auspiow/zhiyun-extension) | 智云课堂辅助脚本 | GitHub | [Auspiow](https://github.com/Auspiow) |
+| [website-converter](https://github.com/Slowist-Lee/website-converter) | WebVPN 链接转换器 | GitHub | [Slowist-Lee](https://github.com/Slowist-Lee) |
 
 ### 部分 Web 插件
 
@@ -80,8 +82,8 @@
 
 | 名称 | 简介 |
 |------|------|
-| [ZChat](https://chat.zchat.tech/) | AI 聊天工具 |
-| [浙大大先生](https://chat.zju.edu.cn/login) | AI 聊天工具 |
+| [ZChat](https://zchat.tech) | AI 聊天工具 |
+| [AI-research-tools](https://github.com/bighuang624/AI-research-tools) | AI 方向好用的科研工具合集 |
 
 ## ⏰ 时间管理与日程同步
 
@@ -90,7 +92,7 @@
 | [Celechron](https://github.com/Celechron/Celechron) | 服务于浙大学生的时间管理器，支持日历同步 | GitHub | [Celechron](https://github.com/Celechron) |
 | [ZJU-ICAL](https://ical.raynor.top/static) | 以订阅链接形式导入课表至系统日历 | Web | [cxz66666](https://github.com/cxz66666) |
 | [zju-ical-py](https://github.com/Xecades/zju-ical-py?tab=readme-ov-file) | 基于 zju-ical 项目的 Python 重构版本 | GitHub | [Xecades](https://github.com/Xecades) |
-| [ZTA](https://github.com/wdtjm/zta) | 桌面端时间管理工具 | GitHub | [wdtjm (wdtjm)](https://github.com/wdtjm) |
+| [ZTA](https://github.com/wdtjm/zta) | 桌面端时间管理工具 | GitHub | [wdtjm](https://github.com/wdtjm) |
 
 ## 🌐 校园网络与系统工具
 
@@ -98,7 +100,7 @@
 |------|------|------|------|
 | [zjunet](https://github.com/QSCTech/zjunet) | ZJU 校园网命令行工具（VPN / WLAN / DNS） | GitHub | [QSCTech](https://github.com/QSCTech) |
 | [zju-connect](https://github.com/Mythologyli/zju-connect) | ZJU RVPN 客户端的 Go 实现 | GitHub | [Mythologyli](https://github.com/Mythologyli) |
-| [ZJU-Rule](https://github.com/lizhist/ZJU-Rule) | ZJU Clash 分流规则 | GitHub | [lizhist](https://github.com/lizhist) |
+| [ZJU-Rule](https://github.com/SubConv/ZJU-Rule) | ZJU Clash 分流规则 | GitHub | [wouiSB](https://github.com/wouiSB) |
 | [EZ4Connect](https://github.com/PageChen04/EZ4Connect) | 改进的 ZJU-Connect 图形界面（支持 macOS 和 Linux 系统） | GitHub | [PageChen04](https://github.com/PageChen04) |
 
 ## 📓 资源、笔记与教程
@@ -117,15 +119,16 @@
 | [一起学习德智体](https://mp.weixin.qq.com/s/AebEozF9Xemqb1BfIFLayg)| 电气工程专业个人资源站 | 公众号 |
 | [路老师的 nonsense collection](https://mp.weixin.qq.com/s/-hBAeed1AWT35l6Xc5svXQ)| 微积分相关资源 | 公众号 |
 | [Randall 爱数学](https://mp.weixin.qq.com/s/M6ulC2ljYVDZ2mqXJRST-Q) | 线代答案、回忆卷相关资源 | 公众号 |
+| [农生链](https://mp.weixin.qq.com/s/qTc_Reqa8HxLa3boh988Wg) | 由学生运营的农生环专业资源与经验分享平台 | 公众号 |
 
 ### 笔记/教程类
 
 | 名称 | 简介 | 来源 |
 |------|------|------|
-| [zju-welcome](https://zjuers.com/welcome/) | 浙江大学新生入学指南 | GitHub |
-| [图灵班学习指南](https://zju-turing.github.io/TuringCourses/) | 图灵班学习指南 | GitHub |
-| [IsshikiHugh/zju-cs-asio](https://isshikihugh.github.io/zju-cs-asio/)(all sum in one) | 收集 ZJU-CS 相关网站与学习资料索引 | GitHub |
-| [EEStUdy-Place](https://github.com/ZJU-EESUAD/EEStUdy-Place) | 浙江大学电气工程学院学习网站 | GitHub |
+| [zju-welcome](https://zjuers.com/welcome/) | 浙江大学新生入学指南 | [GitHub](https://github.com/kaixuanwang2003/zju-welcome) |
+| [图灵班学习指南](https://zju-turing.github.io/TuringCourses/) | 图灵班学习指南 | [GitHub](https://github.com/ZJU-Turing/TuringCourses/) |
+| [ZJU CS - All Sum in One!](https://isshikihugh.github.io/zju-cs-asio/) | 收集 ZJU-CS 相关网站与学习资料索引 | [GitHub](https://github.com/IsshikiHugh/zju-cs-asio) |
+| [EEStUdy-Place](http://www.eestudy-place.com/) | 浙江大学电气工程学院学习网站 | [GitHub](https://github.com/ZJU-EESUAD/EEStUdy-Place) |
 | [数学之韵](https://zju_math.pages.zjusct.io/mathweb/) | 数学专业课程经验与学习资料共享 | [ZJU Git](https://git.zju.edu.cn/zju_math/mathweb) |
 
 ## 🧮 模板与写作工具
@@ -140,8 +143,8 @@
 | [typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)| 将 Typora 伪装成 LaTeX 的中文样式主题 | GitHub | [Keldos-Li](https://github.com/Keldos-Li) |
 | [modern-zju-thesis](https://github.com/Shuenhoy/modern-zju-thesis) | 浙江大学 Typst 学位论文模版 | GitHub | [Shuenhoy](https://github.com/Shuenhoy) |
 | [ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template)| Typst 项目报告模板 | GitHub| [memset0](https://github.com/memset0) |
-| [zju-typst-tplt](https://github.com/ethanpixar/zju-typst-tplt)| Typst template | GitHub | [ethanpixar](https://github.com/ethanpixar) |
-| [zju-bubble](https://github.com/inuEbisu/bubble-zju) | 简洁现代的浙江大学 Typst 模板 | GitHub | [犬戎](https://github.com/inuEbisu) |
+| [zju-typst-tplt](https://github.com/ethanpixar/zju-typst-tplt)| 报告、作业、短文、笔记 Typst 四合一模版 | GitHub | [ethanpixar](https://github.com/ethanpixar) |
+| [zju-bubble](https://github.com/inuEbisu/bubble-zju) | 简洁现代的浙江大学 Typst 模版 | GitHub | [犬戎](https://github.com/inuEbisu) |
 
 ### PPT/Slides
 
@@ -178,6 +181,7 @@
 | [Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 | GitHub | [IshiKura-a](https://github.com/IshiKura-a) |
 | [evilScripts](https://github.com/ShawHaines/evilScripts) | CC98 / NexusHD 自动签到脚本 | GitHub | [ShawHaines](https://github.com/ShawHaines) |
 | [CC98Autosign](https://github.com/inuEbisu/CC98Autosign) | CC98 自动签到 Python 脚本 | GitHub | [犬戎](https://github.com/inuEbisu) |
+| [yacu](https://greasyfork.org/zh-CN/scripts/438399-yacu-yet-another-cc98-userscript) | CC98 风评统计、屏蔽 | CC98 | [CoolSpring](https://www.cc98.org/user/id/602214) |
 
 ## 🌐 其他
 
@@ -188,6 +192,7 @@
 | [ZJU 轻首页](https://zjuers.com/) | 浙江大学轻量级导航主页 | Web |
 | [ZJU Git](https://git.zju.edu.cn) | 浙江大学 GitLab | Web |
 | [ZJU Mirror](https://mirrors.zju.edu.cn/) | 浙江大学开源镜像站 | Web |
+| [ZJU School-Bus](https://zjusec.com/) | 浙江大学 CTF 练习平台 | Web |
 
 ### 软件
 
@@ -207,12 +212,12 @@
 
 ## 致谢
 
-- 感谢[黎辉 - 学习天地工具与插件合集](https://www.cc98.org/topic/6054386)为项目提供灵感
-- [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list)
-- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/)
-- [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
-- [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
+- 感谢[黎辉 - 学习天地工具与插件合集](https://www.cc98.org/topic/6054386)为项目提供灵感。
+- 感谢[dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list)
+- 本项目使用了[huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/),[DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)与[gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)进行自动化检查。
+- 感谢 CC98 论坛[学习天地](https://www.cc98.org/board/68)与[编程技术](https://www.cc98.org/board/105)版面。
+- 感谢[Goya-ye](https://github.com/Goya-ye),[Zefiro380](https://www.cc98.org/user/id/784931),[Saoji](https://www.cc98.org/user/id/702983),[齐次](https://www.cc98.org/user/id/724283),[3200101971](https://www.cc98.org/user/id/648740),[loyu_Nemo](https://www.cc98.org/user/id/668186) 等用户对于项目的建议。
 
 以及 Contributors:
 
-[![Contributors](https://contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)](https://contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)
+[![Contributors](https://stg.contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)](https://stg.contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)
