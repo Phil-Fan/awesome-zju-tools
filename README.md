@@ -82,7 +82,7 @@
 | 名称 | 简介 |
 |------|------|
 | [ZChat](https://zchat.tech) | AI 聊天工具 |
-| [浙大大先生](https://chat.zju.edu.cn/login) | AI 聊天工具 |
+| [AI-research-tools](https://github.com/bighuang624/AI-research-tools) | AI 方向好用的科研工具合集 |
 
 ## ⏰ 时间管理与日程同步
 
@@ -91,7 +91,7 @@
 | [Celechron](https://github.com/Celechron/Celechron) | 服务于浙大学生的时间管理器，支持日历同步 | GitHub | [Celechron](https://github.com/Celechron) |
 | [ZJU-ICAL](https://ical.raynor.top/static) | 以订阅链接形式导入课表至系统日历 | Web | [cxz66666](https://github.com/cxz66666) |
 | [zju-ical-py](https://github.com/Xecades/zju-ical-py?tab=readme-ov-file) | 基于 zju-ical 项目的 Python 重构版本 | GitHub | [Xecades](https://github.com/Xecades) |
-| [ZTA](https://github.com/wdtjm/zta) | 桌面端时间管理工具 | GitHub | [wdtjm (wdtjm)](https://github.com/wdtjm) |
+| [ZTA](https://github.com/wdtjm/zta) | 桌面端时间管理工具 | GitHub | [wdtjm](https://github.com/wdtjm) |
 
 ## 🌐 校园网络与系统工具
 
@@ -123,10 +123,10 @@
 
 | 名称 | 简介 | 来源 |
 |------|------|------|
-| [zju-welcome](https://zjuers.com/welcome/) | 浙江大学新生入学指南 | GitHub |
-| [图灵班学习指南](https://zju-turing.github.io/TuringCourses/) | 图灵班学习指南 | GitHub |
-| [IsshikiHugh/zju-cs-asio](https://isshikihugh.github.io/zju-cs-asio/)(all sum in one) | 收集 ZJU-CS 相关网站与学习资料索引 | GitHub |
-| [EEStUdy-Place](https://github.com/ZJU-EESUAD/EEStUdy-Place) | 浙江大学电气工程学院学习网站 | GitHub |
+| [zju-welcome](https://zjuers.com/welcome/) | 浙江大学新生入学指南 | [GitHub](https://github.com/kaixuanwang2003/zju-welcome) |
+| [图灵班学习指南](https://zju-turing.github.io/TuringCourses/) | 图灵班学习指南 | [GitHub](https://github.com/ZJU-Turing/TuringCourses/) |
+| [ZJU CS - All Sum in One!](https://isshikihugh.github.io/zju-cs-asio/) | 收集 ZJU-CS 相关网站与学习资料索引 | [GitHub](https://github.com/IsshikiHugh/zju-cs-asio) |
+| [EEStUdy-Place](http://www.eestudy-place.com/) | 浙江大学电气工程学院学习网站 | [GitHub](https://github.com/ZJU-EESUAD/EEStUdy-Place) |
 | [数学之韵](https://zju_math.pages.zjusct.io/mathweb/) | 数学专业课程经验与学习资料共享 | [ZJU Git](https://git.zju.edu.cn/zju_math/mathweb) |
 
 ## 🧮 模板与写作工具
@@ -215,6 +215,7 @@
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/)
 - [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
+- CC98 论坛 [编程技术](https://www.cc98.org/board/105) 版面
 
 以及 Contributors:
 
