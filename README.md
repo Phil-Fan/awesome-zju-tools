@@ -1,9 +1,10 @@
-# Awesome ZJU Tools 😎[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome ZJU Tools 😎
 
-> 浙江大学生态圈中提高学习、科研与生活效率的工具、脚本与模版合集
+![banner image](banner.png)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![CC98 Forum](https://img.shields.io/badge/CC98-%E6%B5%99%E5%A4%A7%E8%AE%BA%E5%9D%9B-blue)](https://www.cc98.org)[![Stars](https://img.shields.io/github/stars/Phil-Fan/awesome-zju-tools.svg?style=flat)](https://github.com/Phil-Fan/awesome-zju-tools/stargazers)[![Forks](https://img.shields.io/github/forks/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/network/members)
-[![Issues](https://img.shields.io/github/issues/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/issues)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Phil-Fan/awesome-zju-tools/blob/main/.github/CONTRIBUTING.md)[![Last Commit](https://img.shields.io/github/last-commit/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/commits/main)[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://github.com/Phil-Fan/awesome-zju-tools/blob/main/LICENSE)
+> 浙江大学生态圈中提高学习、科研与生活效率的工具、脚本、资源与模版合集
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![CC98 Forum](https://img.shields.io/badge/CC98-%E6%B5%99%E5%A4%A7%E8%AE%BA%E5%9D%9B-blue)](https://www.cc98.org)[![Stars](https://img.shields.io/github/stars/Phil-Fan/awesome-zju-tools.svg?style=flat)](https://github.com/Phil-Fan/awesome-zju-tools/stargazers)[![Forks](https://img.shields.io/github/forks/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/network/members)[![Issues](https://img.shields.io/github/issues/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/issues)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Phil-Fan/awesome-zju-tools/blob/main/.github/CONTRIBUTING.md)[![Last Commit](https://img.shields.io/github/last-commit/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/commits/main)[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://github.com/Phil-Fan/awesome-zju-tools/blob/main/LICENSE)
 
 ## 📘 目录
 
@@ -218,6 +219,7 @@
 - 本项目使用了[huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/),[DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)与[gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)进行自动化检查。
 - 感谢 CC98 论坛[学习天地](https://www.cc98.org/board/68)与[编程技术](https://www.cc98.org/board/105)版面。
 - 感谢[Goya-ye](https://github.com/Goya-ye),[Zefiro380](https://www.cc98.org/user/id/784931),[Saoji](https://www.cc98.org/user/id/702983),[齐次](https://www.cc98.org/user/id/724283),[3200101971](https://www.cc98.org/user/id/648740),[loyu_Nemo](https://www.cc98.org/user/id/668186),[红豆糕糕糕](https://www.cc98.org/user/id/706456) 等用户对于项目的建议。
+- 感谢[Text to ASCII Art Generator](https://patorjk.com/software/taag/)
 
 以及 Contributors:
 
