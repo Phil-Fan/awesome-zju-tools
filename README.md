@@ -118,6 +118,7 @@
 | [一起学习德智体](https://mp.weixin.qq.com/s/AebEozF9Xemqb1BfIFLayg)| 电气工程专业个人资源站 | 公众号 |
 | [路老师的 nonsense collection](https://mp.weixin.qq.com/s/-hBAeed1AWT35l6Xc5svXQ)| 微积分相关资源 | 公众号 |
 | [Randall 爱数学](https://mp.weixin.qq.com/s/M6ulC2ljYVDZ2mqXJRST-Q) | 线代答案、回忆卷相关资源 | 公众号 |
+| [农生链](https://mp.weixin.qq.com/s/qTc_Reqa8HxLa3boh988Wg) | 由学生运营的农生环专业资源与经验分享平台 | 公众号 |
 
 ### 笔记/教程类
 
@@ -216,6 +217,7 @@
 - [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
 - [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
 - CC98 论坛 [编程技术](https://www.cc98.org/board/105) 版面
+- 感谢 [Goya-ye](https://github.com/Goya-ye), [Zefiro380](https://www.cc98.org/user/id/784931), [Saoji](https://www.cc98.org/user/id/702983), [齐次](https://www.cc98.org/user/id/724283), [3200101971](https://www.cc98.org/user/id/648740), [loyu_Nemo](https://www.cc98.org/user/id/668186) 等用户对于项目的建议。
 
 以及 Contributors:
 
