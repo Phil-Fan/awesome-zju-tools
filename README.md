@@ -219,4 +219,4 @@
 
 以及 Contributors:
 
-[![Contributors](https://contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)](https://contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)
+[![Contributors](https://stg.contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)](https://stg.contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)
