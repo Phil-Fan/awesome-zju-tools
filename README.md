@@ -164,9 +164,9 @@
 
 | 名称 | 简介 |
 |------|------|
-| [Excalidraw](https://excalidraw.com) | 在线白板/矢量手绘风画图工具 |
-| [Eraser](https://app.eraser.io/dashboard/all) | 团队协作绘图、流程图和头脑风暴工具 |
-| [draw.io](https://app.diagrams.net) | 免费流程图和图表绘制工具 |
+| [Excalidraw](https://excalidraw.com) ※ | 在线白板/矢量手绘风画图工具 |
+| [Eraser](https://app.eraser.io/dashboard/all) ※ | 团队协作绘图、流程图和头脑风暴工具 |
+| [draw.io](https://app.diagrams.net) ※ | 免费流程图和图表绘制工具 |
 
 ## ⚙️ ZJU Hacks
 
