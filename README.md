@@ -226,6 +226,6 @@
 
 以及 Contributors:
 
-[![Contributors](https://stg.contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)](https://stg.contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)
+[![Contributors](https://stg.contrib.rocks/image?repo=phil-fan/awesome-zju-tools)](https://github.com/phil-fan/awesome-zju-tools/graphs/contributors)
 
 [^claim]: 使用 `※` (U+203B) 符号标注非 ZJUer 开发或管理的资源。
