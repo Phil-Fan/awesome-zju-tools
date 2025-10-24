@@ -211,13 +211,11 @@
 
 ## 致谢
 
-- 感谢[黎辉 - 学习天地工具与插件合集](https://www.cc98.org/topic/6054386)为项目提供灵感
-- [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list)
-- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/)
-- [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
-- [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)
-- CC98 论坛 [编程技术](https://www.cc98.org/board/105) 版面
-- 感谢 [Goya-ye](https://github.com/Goya-ye), [Zefiro380](https://www.cc98.org/user/id/784931), [Saoji](https://www.cc98.org/user/id/702983), [齐次](https://www.cc98.org/user/id/724283), [3200101971](https://www.cc98.org/user/id/648740), [loyu_Nemo](https://www.cc98.org/user/id/668186) 等用户对于项目的建议。
+- 感谢[黎辉 - 学习天地工具与插件合集](https://www.cc98.org/topic/6054386)为项目提供灵感。
+- 感谢[dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list)
+- 本项目使用了[huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/),[DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)与[gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)进行自动化检查。
+- 感谢 CC98 论坛[学习天地](https://www.cc98.org/board/68)与[编程技术](https://www.cc98.org/board/105)版面。
+- 感谢[Goya-ye](https://github.com/Goya-ye),[Zefiro380](https://www.cc98.org/user/id/784931),[Saoji](https://www.cc98.org/user/id/702983),[齐次](https://www.cc98.org/user/id/724283),[3200101971](https://www.cc98.org/user/id/648740),[loyu_Nemo](https://www.cc98.org/user/id/668186) 等用户对于项目的建议。
 
 以及 Contributors:
 

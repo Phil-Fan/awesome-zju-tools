@@ -1,7 +1,3 @@
 {
-  "line-length": {
-    "stern": true,
-    "code_blocks": false,
-    "headings": false
-  }
+  "line-length": false
 }
