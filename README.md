@@ -52,6 +52,7 @@
 |------|------|------|------|
 | [思政刷题器](https://study.zjueva.net/) | 思政在线刷题工具 | Web | [ADSR1042](https://github.com/ADSR1042) |
 | [大英默写器](https://eng.zjueva.net/) | 英语单词默写工具 | Web | [ADSR1042](https://github.com/ADSR1042) |
+| [iLovePDF](https://www.ilovepdf.com/zh-cn) | PDF 文件在线处理工具 | Web | - |
 
 ### 脚本类
 
@@ -216,7 +217,7 @@
 - 感谢[dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list)
 - 本项目使用了[huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/),[DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)与[gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)进行自动化检查。
 - 感谢 CC98 论坛[学习天地](https://www.cc98.org/board/68)与[编程技术](https://www.cc98.org/board/105)版面。
-- 感谢[Goya-ye](https://github.com/Goya-ye),[Zefiro380](https://www.cc98.org/user/id/784931),[Saoji](https://www.cc98.org/user/id/702983),[齐次](https://www.cc98.org/user/id/724283),[3200101971](https://www.cc98.org/user/id/648740),[loyu_Nemo](https://www.cc98.org/user/id/668186) 等用户对于项目的建议。
+- 感谢[Goya-ye](https://github.com/Goya-ye),[Zefiro380](https://www.cc98.org/user/id/784931),[Saoji](https://www.cc98.org/user/id/702983),[齐次](https://www.cc98.org/user/id/724283),[3200101971](https://www.cc98.org/user/id/648740),[loyu_Nemo](https://www.cc98.org/user/id/668186),[红豆糕糕糕](https://www.cc98.org/user/id/706456) 等用户对于项目的建议。
 
 以及 Contributors:
 
