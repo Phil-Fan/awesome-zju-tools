@@ -2,7 +2,7 @@
 
 ![banner image](banner.png)
 
-> 浙江大学生态圈中提高学习、科研与生活效率的工具、脚本、资源与模版合集
+> 浙江大学生态圈中提高学习、科研与生活效率的工具、脚本、资源与模版合集[^claim]
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![CC98 Forum](https://img.shields.io/badge/CC98-%E6%B5%99%E5%A4%A7%E8%AE%BA%E5%9D%9B-blue)](https://www.cc98.org)[![Stars](https://img.shields.io/github/stars/Phil-Fan/awesome-zju-tools.svg?style=flat)](https://github.com/Phil-Fan/awesome-zju-tools/stargazers)[![Forks](https://img.shields.io/github/forks/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/network/members)[![Issues](https://img.shields.io/github/issues/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/issues)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Phil-Fan/awesome-zju-tools/blob/main/.github/CONTRIBUTING.md)[![Last Commit](https://img.shields.io/github/last-commit/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/commits/main)[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://github.com/Phil-Fan/awesome-zju-tools/blob/main/LICENSE)
 
@@ -53,7 +53,7 @@
 |------|------|------|------|
 | [思政刷题器](https://study.zjueva.net/) | 思政在线刷题工具 | Web | [ADSR1042](https://github.com/ADSR1042) |
 | [大英默写器](https://eng.zjueva.net/) | 英语单词默写工具 | Web | [ADSR1042](https://github.com/ADSR1042) |
-| [iLovePDF](https://www.ilovepdf.com/zh-cn) | PDF 文件在线处理工具 | Web | - |
+| [iLovePDF](https://www.ilovepdf.com/zh-cn) ※ | PDF 文件在线处理工具 | Web | - |
 
 ### 脚本类
 
@@ -75,19 +75,19 @@
 
 | 名称 | 简介 | 来源 |
 |------|------|------|
-| [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-cn) | 用户脚本管理扩展 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/dhdgffkkebhmkfjojejmpbldmpobfkfo?style=social&logo=chromewebstore) |
-| [Global Speed](https://chromewebstore.google.com/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/jpbjcnkcffbooppibceonlgknpkniiff?hl=zh-cn) | 视频加速控制插件 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/jpbjcnkcffbooppibceonlgknpkniiff?style=social&logo=chromewebstore) |
-| [Simple Allow Copy](https://chromewebstore.google.com/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc?hl=zh-cn) | 网页解除复制限制插件 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/aefehdhdciieocakfobpaaolhipkcpgc?style=social&logo=chromewebstore) |
-| [AdBlock](https://chromewebstore.google.com/detail/adblock-%E6%8B%A6%E6%88%AA%E6%95%B4%E4%B8%AA%E7%BD%91%E7%BB%9C%E7%9A%84%E5%B9%BF%E5%91%8A/gighmmpiobklfepjocnamgkkbiglidom?hl=zh-cn) | 广告拦截 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/gighmmpiobklfepjocnamgkkbiglidom?style=social&logo=chromewebstore) |
-| [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=zh-cn)| 广告拦截 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/ddkjiahejlhfcafbddmgiahcphecmpfh?style=social&logo=chromewebstore) |
-| [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=zh-cn) | 键盘浏览工具 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/dbepggeogbaibhgnhhndojpepiihcmeb?style=social&logo=chromewebstore) |
+| [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-cn) ※ | 用户脚本管理扩展 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/dhdgffkkebhmkfjojejmpbldmpobfkfo?style=social&logo=chromewebstore) |
+| [Global Speed](https://chromewebstore.google.com/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/jpbjcnkcffbooppibceonlgknpkniiff?hl=zh-cn) ※ | 视频加速控制插件 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/jpbjcnkcffbooppibceonlgknpkniiff?style=social&logo=chromewebstore) |
+| [Simple Allow Copy](https://chromewebstore.google.com/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc?hl=zh-cn) ※ | 网页解除复制限制插件 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/aefehdhdciieocakfobpaaolhipkcpgc?style=social&logo=chromewebstore) |
+| [AdBlock](https://chromewebstore.google.com/detail/adblock-%E6%8B%A6%E6%88%AA%E6%95%B4%E4%B8%AA%E7%BD%91%E7%BB%9C%E7%9A%84%E5%B9%BF%E5%91%8A/gighmmpiobklfepjocnamgkkbiglidom?hl=zh-cn) ※ | 广告拦截 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/gighmmpiobklfepjocnamgkkbiglidom?style=social&logo=chromewebstore) |
+| [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=zh-cn) ※ | 广告拦截 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/ddkjiahejlhfcafbddmgiahcphecmpfh?style=social&logo=chromewebstore) |
+| [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=zh-cn) ※ | 键盘浏览工具 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/dbepggeogbaibhgnhhndojpepiihcmeb?style=social&logo=chromewebstore) |
 
 ## 💡 AI 工具
 
 | 名称 | 简介 |
 |------|------|
 | [ZChat](https://zchat.tech) | AI 聊天工具 |
-| [AI-research-tools](https://github.com/bighuang624/AI-research-tools) | AI 方向好用的科研工具合集 |
+| [AI-research-tools](https://github.com/bighuang624/AI-research-tools) ※ | AI 方向好用的科研工具合集 |
 
 ## ⏰ 时间管理与日程同步
 
@@ -174,12 +174,12 @@
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
-| [Fuck_QCZJ](https://github.com/WuliAPO/Fuck_QCZJ) | 青年大学习打卡 | GitHub ![GitHub stars](https://img.shields.io/github/stars/WuliAPO/Fuck_QCZJ?style=social) | [WuliAPO](https://github.com/WuliAPO) |
-| [iOSRealRun-cli-17](https://github.com/iOSRealRun/iOSRealRun-cli-17) | (iOS 17+) 虚拟定位免越狱跑步打卡，支持随机速度与路线 | GitHub ![GitHub stars](https://img.shields.io/github/stars/iOSRealRun/iOSRealRun-cli-17?style=social) | [iOSRealRun](https://github.com/iOSRealRun) |
+| [Fuck_QCZJ](https://github.com/WuliAPO/Fuck_QCZJ) ※ | 青年大学习打卡 | GitHub ![GitHub stars](https://img.shields.io/github/stars/WuliAPO/Fuck_QCZJ?style=social) | [WuliAPO](https://github.com/WuliAPO) |
+| [iOSRealRun-cli-17](https://github.com/iOSRealRun/iOSRealRun-cli-17) ※ | (iOS 17+) 虚拟定位免越狱跑步打卡，支持随机速度与路线 | GitHub ![GitHub stars](https://img.shields.io/github/stars/iOSRealRun/iOSRealRun-cli-17?style=social) | [iOSRealRun](https://github.com/iOSRealRun) |
 | [iOSFakeRun](https://github.com/Mythologyli/iOSFakeRun) | iOS 虚拟跑步模拟，支持循环与随机路线 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Mythologyli/iOSFakeRun?style=social) | [Mythologyli](https://github.com/Mythologyli) |
-| [fuckZHS](https://github.com/VermiIIi0n/fuckZHS) | 自动刷智慧树课程脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/VermiIIi0n/fuckZHS?style=social) | [VermiIIi0n](https://github.com/VermiIIi0n) |
-| [OCS 网课助手](https://docs.ocsjs.com/docs/quickly-start/) | 刷 MOOC / 智慧树 自动化工具 | GitHub ![GitHub stars](https://img.shields.io/github/stars/ocsjs/ocsjs?style=social) | [ocsjs](https://github.com/ocsjs) |
-| [GinsMooc](https://github.com/ginnnnnncc/GinsMooc) | 中国大学 MOOC 自动答题插件 | GitHub ![GitHub stars](https://img.shields.io/github/stars/ginnnnnncc/GinsMooc?style=social) | [ginnnnnncc](https://github.com/ginnnnnncc) |
+| [fuckZHS](https://github.com/VermiIIi0n/fuckZHS) ※ | 自动刷智慧树课程脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/VermiIIi0n/fuckZHS?style=social) | [VermiIIi0n](https://github.com/VermiIIi0n) |
+| [OCS 网课助手](https://docs.ocsjs.com/docs/quickly-start/) ※ | 刷 MOOC / 智慧树 自动化工具 | GitHub ![GitHub stars](https://img.shields.io/github/stars/ocsjs/ocsjs?style=social) | [ocsjs](https://github.com/ocsjs) |
+| [GinsMooc](https://github.com/ginnnnnncc/GinsMooc) ※ | 中国大学 MOOC 自动答题插件 | GitHub ![GitHub stars](https://img.shields.io/github/stars/ginnnnnncc/GinsMooc?style=social) | [ginnnnnncc](https://github.com/ginnnnnncc) |
 | [速刷新中特教学视频](https://www.cc98.org/topic/6003813) | 一键刷新中特教学视频 | CC98 | [吃个诸葛亮](https://www.cc98.org/user/id/613815) |
 | [迎新系统测试](https://www.cc98.org/topic/6249309/1#1) | 一键通过研究生迎新系统中学术规范和安全测试 | CC98 | [方の馒头](https://www.cc98.org/user/id/785112) |
 | [Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/IshiKura-a/Quicker?style=social) | [IshiKura-a](https://github.com/IshiKura-a) |
@@ -226,3 +226,5 @@
 以及 Contributors:
 
 [![Contributors](https://stg.contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)](https://stg.contrib.rocks/image?repo=Phil-Fan/awesome-zju-tools)
+
+[^claim]: 使用 `※` (U+203B) 符号标注非 ZJUer 开发或管理的资源。
