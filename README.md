@@ -46,7 +46,6 @@
 | [Quantum](https://github.com/XmmShp/Quantum) | 服务于 ZJUers 的桌面端工具箱 | GitHub ![GitHub stars](https://img.shields.io/github/stars/XmmShp/Quantum?style=social) | [XmmShp](https://github.com/XmmShp) |
 | [ZJU-MOTIS](https://github.com/xi2p/ZJU-MOTIS) | 选课辅助系统 | GitHub ![GitHub stars](https://img.shields.io/github/stars/xi2p/ZJU-MOTIS?style=social) | [xi2p](https://github.com/xi2p) |
 | [chalaoshi](https://github.com/zjuchalaoshi/chalaoshi?tab=readme-ov-file) ※ | 匿名评教工具 | GitHub ![GitHub stars](https://img.shields.io/github/stars/zjuchalaoshi/chalaoshi?style=social) | [zjuchalaoshi](https://github.com/zjuchalaoshi) |
-| [EasySpider](https://github.com/NaiboWang/EasySpider) | 可视化浏览器自动化测试/数据采集/爬虫软件 | GitHub ![GitHub stars](https://img.shields.io/github/stars/NaiboWang/EasySpider?style=social) | [NaiboWang](https://github.com/NaiboWang) |
 
 ### 网站类
 
@@ -96,10 +95,15 @@
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
 | [AI-research-tools](https://github.com/bighuang624/AI-research-tools) ※ | AI 方向好用的科研工具合集 | GitHub ![GitHub stars](https://img.shields.io/github/stars/bighuang624/AI-research-tools?style=social) | [bighuang624](https://github.com/bighuang624) |
+| [learning_research](https://github.com/pengsida/learning_research?tab=readme-ov-file) | 彭思达学长的科研经验分享 | [GitHub](https://github.com/pengsida/learning_research) ![GitHub stars](https://img.shields.io/github/stars/pengsida/learning_research?style=social) | [彭思达](http://pengsida.net) |
+| [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) ※ | Collection of advice for prospective and current PhD students | [GitHub](https://github.com/pliang279/awesome-phd-advice) ![GitHub stars](https://img.shields.io/github/stars/pliang279/awesome-phd-advice?style=social) | [pliang279](https://github.com/pliang279) |
 | [cool papers](https://papers.cool) ※ | 沉浸式刷论文 | [GitHub](https://github.com/bojone/papers.cool) ![GitHub stars](https://img.shields.io/github/stars/bojone/papers.cool?style=social) | [苏剑林](https://kexue.fm) |
-| [zotero-better-notes](https://github.com/windingwind/zotero-better-notes) | Everything about note management. 教程见[化繁为简，快速提炼：Zotero 文献笔记最佳实践 - CC98 论坛](https://www.cc98.org/topic/5348707) | GitHub ![GitHub stars](https://img.shields.io/github/stars/windingwind/zotero-better-notes?style=social) | [windingwind](https://github.com/windingwind) |
+| [zotero-better-notes](https://github.com/windingwind/zotero-better-notes) | [化繁为简，快速提炼：Zotero 文献笔记最佳实践 - CC98 论坛](https://www.cc98.org/topic/5348707) | GitHub ![GitHub stars](https://img.shields.io/github/stars/windingwind/zotero-better-notes?style=social) | [windingwind](https://github.com/windingwind) |
 | [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) | 翻译 PDF, EPub, webpage, metadata, annotations, notes | GitHub ![GitHub stars](https://img.shields.io/github/stars/windingwind/zotero-pdf-translate?style=social) | [windingwind](https://github.com/windingwind) |
 | [zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) | Customize your Zotero workflow. | GitHub ![GitHub stars](https://img.shields.io/github/stars/windingwind/zotero-actions-tags?style=social) | [windingwind](https://github.com/windingwind) |
+| [zotero-style](https://github.com/MuiseDestiny/zotero-style) ※ | Ethereal Style for Zotero | GitHub ![GitHub stars](https://img.shields.io/github/stars/MuiseDestiny/zotero-style?style=social) | [MuiseDestiny](https://github.com/MuiseDestiny) |
+| [DownGit](https://www.itsvse.com/downgit/#/home) ※ | Create GitHub Resource Download Link | [GitHub](https://github.com/MinhasKamal/DownGit) ![GitHub stars](https://img.shields.io/github/stars/MinhasKamal/DownGit?style=social) | [MinhasKamal](https://github.com/MinhasKamal) |
+| [GitHub-proxy](https://gh-proxy.com/) ※ | GitHub 文件代理加速 | Web | - |
 
 ## ⏰ 时间管理与日程同步
 
@@ -146,7 +150,6 @@
 | [ZJU CS - All Sum in One!](https://isshikihugh.github.io/zju-cs-asio/) | 收集 ZJU-CS 相关网站与学习资料索引 | [GitHub](https://github.com/IsshikiHugh/zju-cs-asio) ![GitHub stars](https://img.shields.io/github/stars/IsshikiHugh/zju-cs-asio?style=social) |
 | [EEStUdy-Place](http://www.eestudy-place.com/) | 浙江大学电气工程学院学习网站 | [GitHub](https://github.com/ZJU-EESUAD/EEStUdy-Place) ![GitHub stars](https://img.shields.io/github/stars/ZJU-EESUAD/EEStUdy-Place?style=social) |
 | [数学之韵](https://zju_math.pages.zjusct.io/mathweb/) | 数学专业课程经验与学习资料共享 | [ZJU Git](https://git.zju.edu.cn/zju_math/mathweb) |
-| [learning_research](https://github.com/pengsida/learning_research?tab=readme-ov-file) | 彭思达学长的科研经验分享 | [GitHub](https://github.com/pengsida/learning_research) ![GitHub stars](https://img.shields.io/github/stars/pengsida/learning_research?style=social) |
 
 ## 🧮 模板与写作工具
 
@@ -180,6 +183,8 @@
 | [Excalidraw](https://excalidraw.com) ※ | 在线白板/矢量手绘风画图工具 |
 | [Eraser](https://app.eraser.io/dashboard/all) ※ | 团队协作绘图、流程图和头脑风暴工具 |
 | [draw.io](https://app.diagrams.net) ※ | 免费流程图和图表绘制工具 |
+| [Mermaid](https://mermaid.js.org/) ※ | 使用 Markdown 语法生成流程图、序列图、甘特图等 |
+| [Xmind](https://xmind.com/) ※ | 思维导图工具 |
 
 ## 🧑‍💻 ZJU Hacks
 
@@ -187,6 +192,10 @@
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
+| [EasySpider](https://github.com/NaiboWang/EasySpider) | 可视化浏览器自动化测试/数据采集/爬虫软件 | GitHub ![GitHub stars](https://img.shields.io/github/stars/NaiboWang/EasySpider?style=social) | [NaiboWang](https://github.com/NaiboWang) |
+| [evilScripts](https://github.com/ShawHaines/evilScripts) | CC98 / NexusHD 自动签到脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/ShawHaines/evilScripts?style=social) | [ShawHaines](https://github.com/ShawHaines) |
+| [CC98Autosign](https://github.com/inuEbisu/CC98Autosign) | CC98 自动签到 Python 脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/inuEbisu/CC98Autosign?style=social) | [犬戎](https://github.com/inuEbisu) |
+| [yacu](https://greasyfork.org/zh-CN/scripts/438399-yacu-yet-another-cc98-userscript) | CC98 风评统计、屏蔽 |  Greasy Fork ![Greasy Fork installs](https://img.shields.io/greasyfork/dt/438399?style=social&logo=greasyfork) | [CoolSpring](https://www.cc98.org/user/id/602214) |
 | [Fuck_QCZJ](https://github.com/WuliAPO/Fuck_QCZJ) ※ | 青年大学习打卡 | GitHub ![GitHub stars](https://img.shields.io/github/stars/WuliAPO/Fuck_QCZJ?style=social) | [WuliAPO](https://github.com/WuliAPO) |
 | [iOSRealRun-cli-17](https://github.com/iOSRealRun/iOSRealRun-cli-17) ※ | (iOS 17+) 虚拟定位免越狱跑步打卡，支持随机速度与路线 | GitHub ![GitHub stars](https://img.shields.io/github/stars/iOSRealRun/iOSRealRun-cli-17?style=social) | [iOSRealRun](https://github.com/iOSRealRun) |
 | [iOSFakeRun](https://github.com/Mythologyli/iOSFakeRun) | iOS 虚拟跑步模拟，支持循环与随机路线 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Mythologyli/iOSFakeRun?style=social) | [Mythologyli](https://github.com/Mythologyli) |
@@ -196,9 +205,6 @@
 | [速刷新中特教学视频](https://www.cc98.org/topic/6003813) | 一键刷新中特教学视频 | CC98 | [吃个诸葛亮](https://www.cc98.org/user/id/613815) |
 | [迎新系统测试](https://www.cc98.org/topic/6249309/1#1) | 一键通过研究生迎新系统中学术规范和安全测试 | CC98 | [方の馒头](https://www.cc98.org/user/id/785112) |
 | [Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/IshiKura-a/Quicker?style=social) | [IshiKura-a](https://github.com/IshiKura-a) |
-| [evilScripts](https://github.com/ShawHaines/evilScripts) | CC98 / NexusHD 自动签到脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/ShawHaines/evilScripts?style=social) | [ShawHaines](https://github.com/ShawHaines) |
-| [CC98Autosign](https://github.com/inuEbisu/CC98Autosign) | CC98 自动签到 Python 脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/inuEbisu/CC98Autosign?style=social) | [犬戎](https://github.com/inuEbisu) |
-| [yacu](https://greasyfork.org/zh-CN/scripts/438399-yacu-yet-another-cc98-userscript) | CC98 风评统计、屏蔽 |  Greasy Fork ![Greasy Fork installs](https://img.shields.io/greasyfork/dt/438399?style=social&logo=greasyfork) | [CoolSpring](https://www.cc98.org/user/id/602214) |
 
 ## 🌐 其他
 
@@ -215,7 +221,7 @@
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
-| [CC98-Desktop](https://github.com/Ginsenvey/CC98-Desktop) | CC98 的 Windows 11 桌面客户端，基于 Win UI3 构建。 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Ginsenvey/CC98-Desktop?style=social) | [Ginsenvey](https://github.com/Ginsenvey) |
+| [CC98-Desktop](https://github.com/Ginsenvey/CC98-Desktop) | CC98 的 Windows 11 桌面客户端 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Ginsenvey/CC98-Desktop?style=social) | [Ginsenvey](https://github.com/Ginsenvey) |
 
 ## Contributing
 
@@ -229,15 +235,14 @@
 
 ## 致谢
 
+- 本项目使用 [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) 生成项目 README 大纲。
+- 使用 [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/), [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action) 与 [gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check) 进行自动化检查。
+- 使用 [Text to ASCII Art Generator](https://patorjk.com/software/taag/) 生成项目 Logo。
+- 使用 [Shields.io](https://shields.io) 和 [Simple Icons](https://simpleicons.org) 生成项目 Badges。
 - 感谢 [黎辉 - 学习天地工具与插件合集](https://www.cc98.org/topic/6054386)为项目提供灵感。
-- 感谢 [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list)
-- 本项目使用了[huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/),[DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)与[gaurav-nelson/github-action-markdown-link-check](https://github.com/gaurav-nelson/github-action-markdown-link-check)进行自动化检查。
 - 感谢 CC98 论坛[学习天地](https://www.cc98.org/board/68)与[编程技术](https://www.cc98.org/board/105)版面。
-- 感谢[Goya-ye](https://github.com/Goya-ye),[Zefiro380](https://www.cc98.org/user/id/784931),[Saoji](https://www.cc98.org/user/id/702983),[齐次](https://www.cc98.org/user/id/724283),[3200101971](https://www.cc98.org/user/id/648740),[loyu_Nemo](https://www.cc98.org/user/id/668186),[红豆糕糕糕](https://www.cc98.org/user/id/706456) 等用户对于项目的建议。
-- 感谢 [Text to ASCII Art Generator](https://patorjk.com/software/taag/)
-- 感谢 [shields.io](https://shields.io)
-
-以及 Contributors:
+- 感谢 [Goya-ye](https://github.com/Goya-ye), [Zefiro380](https://www.cc98.org/user/id/784931), [Saoji](https://www.cc98.org/user/id/702983), [齐次](https://www.cc98.org/user/id/724283), [3200101971](https://www.cc98.org/user/id/648740), [loyu_Nemo](https://www.cc98.org/user/id/668186), [红豆糕糕糕](https://www.cc98.org/user/id/706456) 等用户对于项目的建议。
+- 感谢所有 **Contributors**!
 
 [![Contributors](https://stg.contrib.rocks/image?repo=phil-fan/awesome-zju-tools)](https://github.com/phil-fan/awesome-zju-tools/graphs/contributors)
 
