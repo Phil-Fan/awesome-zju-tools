@@ -16,6 +16,7 @@
     - [脚本类](#脚本类)
     - [部分 Web 插件](#部分-web-插件)
   - [💡 AI 工具](#-ai-工具)
+  - [⚙️ 科研工具](#️-科研工具)
   - [⏰ 时间管理与日程同步](#-时间管理与日程同步)
   - [🌐 校园网络与系统工具](#-校园网络与系统工具)
   - [📓 资源、笔记与教程](#-资源笔记与教程)
@@ -25,7 +26,7 @@
     - [论文/实验报告模板](#论文实验报告模板)
     - [PPT/Slides](#pptslides)
     - [绘图](#绘图)
-  - [⚙️ ZJU Hacks](#️-zju-hacks)
+  - [🧑‍💻 ZJU Hacks](#-zju-hacks)
   - [🌐 其他](#-其他)
     - [网站](#网站)
     - [软件](#软件)
@@ -87,7 +88,18 @@
 | 名称 | 简介 |
 |------|------|
 | [ZChat](https://zchat.tech) | AI 聊天工具 |
-| [AI-research-tools](https://github.com/bighuang624/AI-research-tools) ※ | AI 方向好用的科研工具合集 |
+| [Chatbot Arena](https://openlm.ai/chatbot-arena/) ※ | Chatbot 排行榜 |
+| [SEAL LLM Leaderboards](https://scale.com/leaderboard) ※ | LLM 排行榜 |
+
+## ⚙️ 科研工具
+
+| 名称 | 简介 | 来源 | 作者/发起人 |
+|------|------|------|------|
+| [AI-research-tools](https://github.com/bighuang624/AI-research-tools) ※ | AI 方向好用的科研工具合集 | GitHub ![GitHub stars](https://img.shields.io/github/stars/bighuang624/AI-research-tools?style=social) | [bighuang624](https://github.com/bighuang624) |
+| [cool papers](https://papers.cool) ※ | 沉浸式刷论文 | [GitHub](https://github.com/bojone/papers.cool) ![GitHub stars](https://img.shields.io/github/stars/bojone/papers.cool?style=social) | [苏剑林](https://kexue.fm) |
+| [zotero-better-notes](https://github.com/windingwind/zotero-better-notes) | Everything about note management. 教程见[化繁为简，快速提炼：Zotero 文献笔记最佳实践 - CC98 论坛](https://www.cc98.org/topic/5348707) | GitHub ![GitHub stars](https://img.shields.io/github/stars/windingwind/zotero-better-notes?style=social) | [windingwind](https://github.com/windingwind) |
+| [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) | 翻译 PDF, EPub, webpage, metadata, annotations, notes | GitHub ![GitHub stars](https://img.shields.io/github/stars/windingwind/zotero-pdf-translate?style=social) | [windingwind](https://github.com/windingwind) |
+| [zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) | Customize your Zotero workflow. | GitHub ![GitHub stars](https://img.shields.io/github/stars/windingwind/zotero-actions-tags?style=social) | [windingwind](https://github.com/windingwind) |
 
 ## ⏰ 时间管理与日程同步
 
@@ -134,6 +146,7 @@
 | [ZJU CS - All Sum in One!](https://isshikihugh.github.io/zju-cs-asio/) | 收集 ZJU-CS 相关网站与学习资料索引 | [GitHub](https://github.com/IsshikiHugh/zju-cs-asio) ![GitHub stars](https://img.shields.io/github/stars/IsshikiHugh/zju-cs-asio?style=social) |
 | [EEStUdy-Place](http://www.eestudy-place.com/) | 浙江大学电气工程学院学习网站 | [GitHub](https://github.com/ZJU-EESUAD/EEStUdy-Place) ![GitHub stars](https://img.shields.io/github/stars/ZJU-EESUAD/EEStUdy-Place?style=social) |
 | [数学之韵](https://zju_math.pages.zjusct.io/mathweb/) | 数学专业课程经验与学习资料共享 | [ZJU Git](https://git.zju.edu.cn/zju_math/mathweb) |
+| [learning_research](https://github.com/pengsida/learning_research?tab=readme-ov-file) | 彭思达学长的科研经验分享 | [GitHub](https://github.com/pengsida/learning_research) ![GitHub stars](https://img.shields.io/github/stars/pengsida/learning_research?style=social) |
 
 ## 🧮 模板与写作工具
 
@@ -168,7 +181,7 @@
 | [Eraser](https://app.eraser.io/dashboard/all) ※ | 团队协作绘图、流程图和头脑风暴工具 |
 | [draw.io](https://app.diagrams.net) ※ | 免费流程图和图表绘制工具 |
 
-## ⚙️ ZJU Hacks
+## 🧑‍💻 ZJU Hacks
 
 > ⚠️⚠️⚠️ **声明：以下脚本仅供学习与研究使用，请勿用于违反校规或相关平台条款的行为。本仓库不保证脚本的安全性、合法性，使用者需自行承担风险。**
 
