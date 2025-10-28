@@ -25,10 +25,11 @@
   - [🧮 模板与写作工具](#-模板与写作工具)
     - [论文/实验报告模板](#论文实验报告模板)
     - [PPT/Slides](#pptslides)
+    - [网站](#网站)
     - [绘图](#绘图)
   - [🧑‍💻 ZJU Hacks](#-zju-hacks)
   - [🌐 其他](#-其他)
-    - [网站](#网站)
+    - [网页](#网页)
     - [软件](#软件)
   - [Contributing](#contributing)
   - [致谢](#致谢)
@@ -147,9 +148,11 @@
 |------|------|------|
 | [zju-welcome](https://zjuers.com/welcome/) | 浙江大学新生入学指南 | [GitHub](https://github.com/kaixuanwang2003/zju-welcome) ![GitHub stars](https://img.shields.io/github/stars/kaixuanwang2003/zju-welcome?style=social) |
 | [图灵班学习指南](https://zju-turing.github.io/TuringCourses/) | 图灵班学习指南 | [GitHub](https://github.com/ZJU-Turing/TuringCourses/) ![GitHub stars](https://img.shields.io/github/stars/ZJU-Turing/TuringCourses?style=social) |
+|[PracticalSkillsTutorial](https://slides.tonycrane.cc/PracticalSkillsTutorial/) | 「实用技能拾遗」系列辅学课程网站 | [GitHub](https://github.com/TonyCrane/PracticalSkillsTutorial) ![GitHub stars](https://img.shields.io/github/stars/TonyCrane/PracticalSkillsTutorial?style=social) |
 | [ZJU CS - All Sum in One!](https://isshikihugh.github.io/zju-cs-asio/) | 收集 ZJU-CS 相关网站与学习资料索引 | [GitHub](https://github.com/IsshikiHugh/zju-cs-asio) ![GitHub stars](https://img.shields.io/github/stars/IsshikiHugh/zju-cs-asio?style=social) |
-| [EEStUdy-Place](http://www.eestudy-place.com/) | 浙江大学电气工程学院学习网站 | [GitHub](https://github.com/ZJU-EESUAD/EEStUdy-Place) ![GitHub stars](https://img.shields.io/github/stars/ZJU-EESUAD/EEStUdy-Place?style=social) |
+| [EEStUdy-Place](http://www.eestudy-place.com/) | 电气工程学院学习网站 | [GitHub](https://github.com/ZJU-EESUAD/EEStUdy-Place) ![GitHub stars](https://img.shields.io/github/stars/ZJU-EESUAD/EEStUdy-Place?style=social) |
 | [数学之韵](https://zju_math.pages.zjusct.io/mathweb/) | 数学专业课程经验与学习资料共享 | [ZJU Git](https://git.zju.edu.cn/zju_math/mathweb) |
+| [力速双 A - ZJUSAA](https://fsaa.pages.zjusct.io/fsaa/) | 航空航天学院学习分享平台 | [ZJU Git](https://git.zju.edu.cn/fsaa/fsaa) |
 
 ## 🧮 模板与写作工具
 
@@ -175,6 +178,15 @@
 | [Awesome PPTs](https://www.cc98.org/topic/6290594)| CC98 版面 PPT 制作帖合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
 | [ZJU-Beamer-Template](https://github.com/qychen2001/ZJU-Beamer-Template) | 一个更好看的浙江大学 Beamer 模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/qychen2001/ZJU-Beamer-Template?style=social) | [qychen2001](https://github.com/qychen2001) |
 | [SlideTemplate](https://github.com/inuEbisu/SlideTemplate) | MkSlides 模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/inuEbisu/SlideTemplate?style=social) | [犬戎](https://github.com/inuEbisu) |
+
+### 网站
+
+| 名称 | 简介 | 来源 | 作者/发起人 |
+|------|------|------|------|
+| [academicpages](https://github.com/academicpages/academicpages.github.io) ※ | 学术网页模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io?style=social) | [academicpages](https://github.com/academicpages) |
+| [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) ※ | 简洁好用的 MkDocs 文档主题 | [GitHub](https://github.com/squidfunk/mkdocs-material) ![GitHub stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social) | [squidfunk](https://github.com/squidfunk) |
+| [GitHub Pages](https://docs.github.com/en/pages) ※ | GitHub Pages 文档 | GitHub | [GitHub](https://github.com/github) |
+| [mkdocs-toolchain](https://github.com/TonyCrane/mkdocs-toolchain) | TonyCrane's Mkdocs toolchain | GitHub ![GitHub stars](https://img.shields.io/github/stars/TonyCrane/mkdocs-toolchain?style=social) | [TonyCrane](https://github.com/TonyCrane) |
 
 ### 绘图
 
@@ -208,7 +220,7 @@
 
 ## 🌐 其他
 
-### 网站
+### 网页
 
 | 名称 | 简介 | 来源 |
 |------|------|------|
@@ -241,7 +253,7 @@
 - 使用 [Shields.io](https://shields.io) 和 [Simple Icons](https://simpleicons.org) 生成项目 Badges。
 - 感谢 [黎辉 - 学习天地工具与插件合集](https://www.cc98.org/topic/6054386)为项目提供灵感。
 - 感谢 CC98 论坛[学习天地](https://www.cc98.org/board/68)与[编程技术](https://www.cc98.org/board/105)版面。
-- 感谢 [Goya-ye](https://github.com/Goya-ye), [Zefiro380](https://www.cc98.org/user/id/784931), [Saoji](https://www.cc98.org/user/id/702983), [齐次](https://www.cc98.org/user/id/724283), [3200101971](https://www.cc98.org/user/id/648740), [loyu_Nemo](https://www.cc98.org/user/id/668186), [红豆糕糕糕](https://www.cc98.org/user/id/706456) 等用户对于项目的建议。
+- 感谢 [Goya-ye](https://github.com/Goya-ye), [Zefiro380](https://www.cc98.org/user/id/784931), [Saoji](https://www.cc98.org/user/id/702983), [齐次](https://www.cc98.org/user/id/724283), [3200101971](https://www.cc98.org/user/id/648740), [loyu_Nemo](https://www.cc98.org/user/id/668186), [红豆糕糕糕](https://www.cc98.org/user/id/706456), [kkkkh-kh](https://github.com/kkkkh-kh), [XSYangtuo](https://www.cc98.org/user/id/733729) 等用户对于项目的建议。
 - 感谢所有 **Contributors**!
 
 [![Contributors](https://stg.contrib.rocks/image?repo=phil-fan/awesome-zju-tools)](https://github.com/phil-fan/awesome-zju-tools/graphs/contributors)
