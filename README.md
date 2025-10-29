@@ -78,7 +78,6 @@
 |------|------|------|
 | [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-cn) ※ | 用户脚本管理扩展 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/dhdgffkkebhmkfjojejmpbldmpobfkfo?style=social&logo=chromewebstore) |
 | [Global Speed](https://chromewebstore.google.com/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/jpbjcnkcffbooppibceonlgknpkniiff?hl=zh-cn) ※ | 视频加速控制插件 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/jpbjcnkcffbooppibceonlgknpkniiff?style=social&logo=chromewebstore) |
-| [Simple Allow Copy](https://chromewebstore.google.com/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc?hl=zh-cn) ※ | 网页解除复制限制插件 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/aefehdhdciieocakfobpaaolhipkcpgc?style=social&logo=chromewebstore) |
 | [AdBlock](https://chromewebstore.google.com/detail/adblock-%E6%8B%A6%E6%88%AA%E6%95%B4%E4%B8%AA%E7%BD%91%E7%BB%9C%E7%9A%84%E5%B9%BF%E5%91%8A/gighmmpiobklfepjocnamgkkbiglidom?hl=zh-cn) ※ | 广告拦截 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/gighmmpiobklfepjocnamgkkbiglidom?style=social&logo=chromewebstore) |
 | [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=zh-cn) ※ | 广告拦截 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/ddkjiahejlhfcafbddmgiahcphecmpfh?style=social&logo=chromewebstore) |
 | [Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=zh-cn) ※ | 键盘浏览工具 | Chrome 应用商店 ![Chrome Store Users](https://img.shields.io/chrome-web-store/users/dbepggeogbaibhgnhhndojpepiihcmeb?style=social&logo=chromewebstore) |
@@ -150,6 +149,8 @@
 | [图灵班学习指南](https://zju-turing.github.io/TuringCourses/) | 图灵班学习指南 | [GitHub](https://github.com/ZJU-Turing/TuringCourses/) ![GitHub stars](https://img.shields.io/github/stars/ZJU-Turing/TuringCourses?style=social) |
 |[PracticalSkillsTutorial](https://slides.tonycrane.cc/PracticalSkillsTutorial/) | 「实用技能拾遗」系列辅学课程网站 | [GitHub](https://github.com/TonyCrane/PracticalSkillsTutorial) ![GitHub stars](https://img.shields.io/github/stars/TonyCrane/PracticalSkillsTutorial?style=social) |
 | [ZJU CS - All Sum in One!](https://isshikihugh.github.io/zju-cs-asio/) | 收集 ZJU-CS 相关网站与学习资料索引 | [GitHub](https://github.com/IsshikiHugh/zju-cs-asio) ![GitHub stars](https://img.shields.io/github/stars/IsshikiHugh/zju-cs-asio?style=social) |
+| [Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone) | 线性代数：未竟之美 | [GitHub](https://github.com/yhwu-is/Linear-Algebra-Left-Undone) ![GitHub stars](https://img.shields.io/github/stars/yhwu-is/Linear-Algebra-Left-Undone?style=social) |
+| [Computer-System-Start-From-a-Newbie](https://yhwu-is.github.io/Computer-System-Start-From-a-Newbie/) | 计算机系统——从小白学起 | [GitHub](https://github.com/yhwu-is/Computer-System-Start-From-a-Newbie) ![GitHub stars](https://img.shields.io/github/stars/yhwu-is/Computer-System-Start-From-a-Newbie?style=social) |
 | [EEStUdy-Place](http://www.eestudy-place.com/) | 电气工程学院学习网站 | [GitHub](https://github.com/ZJU-EESUAD/EEStUdy-Place) ![GitHub stars](https://img.shields.io/github/stars/ZJU-EESUAD/EEStUdy-Place?style=social) |
 | [数学之韵](https://zju_math.pages.zjusct.io/mathweb/) | 数学专业课程经验与学习资料共享 | [ZJU Git](https://git.zju.edu.cn/zju_math/mathweb) |
 | [力速双 A - ZJUSAA](https://fsaa.pages.zjusct.io/fsaa/) | 航空航天学院学习分享平台 | [ZJU Git](https://git.zju.edu.cn/fsaa/fsaa) |
@@ -168,6 +169,7 @@
 | [ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template)| Typst 项目报告模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/memset0/ZJU-Project-Report-Template?style=social) | [memset0](https://github.com/memset0) |
 | [zju-typst-tplt](https://github.com/ethanpixar/zju-typst-tplt)| 报告、作业、短文、笔记 Typst 四合一模版 | GitHub ![GitHub stars](https://img.shields.io/github/stars/ethanpixar/zju-typst-tplt?style=social) | [ethanpixar](https://github.com/ethanpixar) |
 | [zju-bubble](https://github.com/inuEbisu/bubble-zju) | 简洁现代的浙江大学 Typst 模版 | GitHub ![GitHub stars](https://img.shields.io/github/stars/inuEbisu/bubble-zju?style=social) | [犬戎](https://github.com/inuEbisu) |
+| [markdown-it-typst](https://github.com/Xecades/markdown-it-typst) | Plugin to transform Typst code to SVG image for markdown-it markdown parser. | GitHub ![GitHub stars](https://img.shields.io/github/stars/Xecades/markdown-it-typst?style=social) | [Xecades](https://github.com/Xecades) |
 
 ### PPT/Slides
 
@@ -176,7 +178,8 @@
 | [slide-template](https://github.com/TonyCrane/slide-template) | slide template for **reveal-md** | GitHub ![GitHub stars](https://img.shields.io/github/stars/TonyCrane/slide-template?style=social) | [TonyCrane](https://github.com/TonyCrane) |
 | [浙大 PPT 模板分享](https://www.cc98.org/topic/5906507) | 求是蓝 / 答辩模板合集 | CC98 | [空山岁月老](https://www.cc98.org/user/id/654921) |
 | [Awesome PPTs](https://www.cc98.org/topic/6290594)| CC98 版面 PPT 制作帖合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
-| [ZJU-Beamer-Template](https://github.com/qychen2001/ZJU-Beamer-Template) | 一个更好看的浙江大学 Beamer 模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/qychen2001/ZJU-Beamer-Template?style=social) | [qychen2001](https://github.com/qychen2001) |
+| [BeamerthemeFormal](https://github.com/HGGshiwo/BeamerthemeFormal) | Beamer 模版 | GitHub ![GitHub stars](https://img.shields.io/github/stars/HGGshiwo/BeamerthemeFormal?style=social) | [HGGshiwo](https://github.com/HGGshiwo) |
+| [ZJU-Beamer-Template](https://github.com/qychen2001/ZJU-Beamer-Template) | Beamer 模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/qychen2001/ZJU-Beamer-Template?style=social) | [qychen2001](https://github.com/qychen2001) |
 | [SlideTemplate](https://github.com/inuEbisu/SlideTemplate) | MkSlides 模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/inuEbisu/SlideTemplate?style=social) | [犬戎](https://github.com/inuEbisu) |
 
 ### 网站
@@ -187,6 +190,7 @@
 | [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) ※ | 简洁好用的 MkDocs 文档主题 | [GitHub](https://github.com/squidfunk/mkdocs-material) ![GitHub stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social) | [squidfunk](https://github.com/squidfunk) |
 | [GitHub Pages](https://docs.github.com/en/pages) ※ | GitHub Pages 文档 | GitHub | [GitHub](https://github.com/github) |
 | [mkdocs-toolchain](https://github.com/TonyCrane/mkdocs-toolchain) | TonyCrane's Mkdocs toolchain | GitHub ![GitHub stars](https://img.shields.io/github/stars/TonyCrane/mkdocs-toolchain?style=social) | [TonyCrane](https://github.com/TonyCrane) |
+| [Replicon](https://github.com/inuEbisu/Replicon?tab=readme-ov-file) | 基于 Typecho 默认主题 Replica 开发的博客主题 | GitHub ![GitHub stars](https://img.shields.io/github/stars/inuEbisu/Replicon?style=social) | [犬戎](https://github.com/inuEbisu) |
 
 ### 绘图
 
@@ -228,6 +232,8 @@
 | [ZJU Git](https://git.zju.edu.cn) | 浙江大学 GitLab | Web |
 | [ZJU Mirror](https://mirrors.zju.edu.cn/) | 浙江大学开源镜像站 | Web |
 | [ZJU School-Bus](https://zjusec.com/) | 浙江大学 CTF 练习平台 | Web |
+| [网大论坛](https://www.netbig.top/) ※ | 高教论坛 | Web |
+| [LINUX DO](https://linux.do/) ※ | 新的理想型社区 | Web |
 
 ### 软件
 
