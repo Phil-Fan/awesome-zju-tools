@@ -1,40 +1,32 @@
-# Awesome ZJU Tools 😎
-
 ![banner image](banner.png)
 
 > 浙江大学生态圈中提高学习、科研与生活效率的工具、脚本、资源与模版合集[^claim]
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![CC98 Forum](https://img.shields.io/badge/CC98-%E6%B5%99%E5%A4%A7%E8%AE%BA%E5%9D%9B-blue)](https://www.cc98.org)[![Stars](https://img.shields.io/github/stars/Phil-Fan/awesome-zju-tools.svg?style=flat)](https://github.com/Phil-Fan/awesome-zju-tools/stargazers)[![Forks](https://img.shields.io/github/forks/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/network/members)[![Issues](https://img.shields.io/github/issues/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/issues)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Phil-Fan/awesome-zju-tools/blob/main/.github/CONTRIBUTING.md)[![Last Commit](https://img.shields.io/github/last-commit/Phil-Fan/awesome-zju-tools.svg)](https://github.com/Phil-Fan/awesome-zju-tools/commits/main)[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://github.com/Phil-Fan/awesome-zju-tools/blob/main/LICENSE)
 
-## 📘 目录
-
-- [Awesome ZJU Tools 😎](#awesome-zju-tools-)
-  - [📘 目录](#-目录)
-  - [📚 学习与课程助手](#-学习与课程助手)
-    - [软件类](#软件类)
-    - [网站类](#网站类)
-    - [脚本类](#脚本类)
-    - [部分 Web 插件](#部分-web-插件)
-  - [💡 AI 工具](#-ai-工具)
-  - [⚙️ 科研工具](#️-科研工具)
-  - [⏰ 时间管理与日程同步](#-时间管理与日程同步)
-  - [🌐 校园网络与系统工具](#-校园网络与系统工具)
-  - [📓 资源、笔记与教程](#-资源笔记与教程)
-    - [资源类](#资源类)
-    - [笔记/教程类](#笔记教程类)
-  - [🧮 模板与写作工具](#-模板与写作工具)
-    - [论文/实验报告模板](#论文实验报告模板)
-    - [PPT/Slides](#pptslides)
-    - [网站](#网站)
-    - [绘图](#绘图)
-  - [🧑‍💻 ZJU Hacks](#-zju-hacks)
-  - [🌐 其他](#-其他)
-    - [网页](#网页)
-    - [软件](#软件)
-  - [Contributing](#contributing)
-  - [致谢](#致谢)
-
----
+- [📚 学习与课程助手](#-学习与课程助手)
+  - [软件类](#软件类)
+  - [网站类](#网站类)
+  - [脚本类](#脚本类)
+  - [部分 Web 插件](#部分-web-插件)
+- [💡 AI 工具](#-ai-工具)
+- [⚙️ 科研工具](#️-科研工具)
+- [⏰ 时间管理与日程同步](#-时间管理与日程同步)
+- [🌐 校园网络与系统工具](#-校园网络与系统工具)
+- [📓 资源、笔记与教程](#-资源笔记与教程)
+  - [资源类](#资源类)
+  - [笔记/教程类](#笔记教程类)
+- [🧮 模板与写作工具](#-模板与写作工具)
+  - [论文/实验报告模板](#论文实验报告模板)
+  - [PPT/Slides](#pptslides)
+  - [网站](#网站)
+  - [绘图](#绘图)
+- [🧑‍💻 ZJU Hacks](#-zju-hacks)
+- [🌐 其他](#-其他)
+  - [网页](#网页)
+  - [软件](#软件)
+- [Contributing](#contributing)
+- [致谢](#致谢)
 
 ## 📚 学习与课程助手
 
@@ -94,10 +86,15 @@
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
-| [AI-research-tools](https://github.com/bighuang624/AI-research-tools) ※ | AI 方向好用的科研工具合集 | GitHub ![GitHub stars](https://img.shields.io/github/stars/bighuang624/AI-research-tools?style=social) | [bighuang624](https://github.com/bighuang624) |
 | [learning_research](https://github.com/pengsida/learning_research?tab=readme-ov-file) | 彭思达学长的科研经验分享 | [GitHub](https://github.com/pengsida/learning_research) ![GitHub stars](https://img.shields.io/github/stars/pengsida/learning_research?style=social) | [彭思达](http://pengsida.net) |
 | [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) ※ | Collection of advice for prospective and current PhD students | [GitHub](https://github.com/pliang279/awesome-phd-advice) ![GitHub stars](https://img.shields.io/github/stars/pliang279/awesome-phd-advice?style=social) | [pliang279](https://github.com/pliang279) |
+| [PaperWriting](https://github.com/wangdongdut/PaperWriting) ※ | 论文写作经验总结 | GitHub ![GitHub stars](https://img.shields.io/github/stars/wangdongdut/PaperWriting?style=social) | [wangdongdut](https://github.com/wangdongdut) |
+
+| 名称 | 简介 | 来源 | 作者/发起人 |
+|------|------|------|------|
+| [AI-research-tools](https://github.com/bighuang624/AI-research-tools) ※ | AI 方向好用的科研工具合集 | GitHub ![GitHub stars](https://img.shields.io/github/stars/bighuang624/AI-research-tools?style=social) | [bighuang624](https://github.com/bighuang624) |
 | [cool papers](https://papers.cool) ※ | 沉浸式刷论文 | [GitHub](https://github.com/bojone/papers.cool) ![GitHub stars](https://img.shields.io/github/stars/bojone/papers.cool?style=social) | [苏剑林](https://kexue.fm) |
+| [zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) ※ | 每日论文推荐 | GitHub ![GitHub stars](https://img.shields.io/github/stars/TideDra/zotero-arxiv-daily?style=social) | [TideDra](https://github.com/TideDra) |
 | [zotero-better-notes](https://github.com/windingwind/zotero-better-notes) | [化繁为简，快速提炼：Zotero 文献笔记最佳实践 - CC98 论坛](https://www.cc98.org/topic/5348707) | GitHub ![GitHub stars](https://img.shields.io/github/stars/windingwind/zotero-better-notes?style=social) | [windingwind](https://github.com/windingwind) |
 | [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) | 翻译 PDF, EPub, webpage, metadata, annotations, notes | GitHub ![GitHub stars](https://img.shields.io/github/stars/windingwind/zotero-pdf-translate?style=social) | [windingwind](https://github.com/windingwind) |
 | [zotero-actions-tags](https://github.com/windingwind/zotero-actions-tags) | Customize your Zotero workflow. | GitHub ![GitHub stars](https://img.shields.io/github/stars/windingwind/zotero-actions-tags?style=social) | [windingwind](https://github.com/windingwind) |
@@ -155,6 +152,14 @@
 | [数学之韵](https://zju_math.pages.zjusct.io/mathweb/) | 数学专业课程经验与学习资料共享 | [ZJU Git](https://git.zju.edu.cn/zju_math/mathweb) |
 | [力速双 A - ZJUSAA](https://fsaa.pages.zjusct.io/fsaa/) | 航空航天学院学习分享平台 | [ZJU Git](https://git.zju.edu.cn/fsaa/fsaa) |
 
+| 名称 | 简介 | 来源 |
+|------|------|------|
+| [SurfingTutorial](https://github.com/mzdluo123/SurfingTutorial) ※ | 给新大学生的网上冲浪和计算机使用教程 | [GitHub](https://github.com/mzdluo123/SurfingTutorial) ![GitHub stars](https://img.shields.io/github/stars/mzdluo123/SurfingTutorial?style=social) |
+| [How-To-Ask-Questions](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md) ※ | 提问的智慧 | [GitHub](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) ![GitHub stars](https://img.shields.io/github/stars/ryanhanwu/How-To-Ask-Questions-The-Smart-Way?style=social) |
+| [csdiy.wiki](https://csdiy.wiki/) ※ | 计算机自学指南 | [GitHub](https://github.com/pkuflyingpig/cs-self-learning) ![GitHub stars](https://img.shields.io/github/stars/pkuflyingpig/cs-self-learning?style=social) |
+| [SurviveSJTUManual](https://survivesjtu.gitbook.io/survivesjtumanual) ※ | SJTU 生存手册 | [GitHub](https://github.com/SurviveSJTU/SurviveSJTUManual) ![GitHub stars](https://img.shields.io/github/stars/SurviveSJTU/SurviveSJTUManual?style=social) |
+| [missing semester](https://missing-semester-cn.github.io/) ※ | MIT 课程 - 计算机教育中缺失的一课 | [GitHub](https://github.com/missing-semester-cn/missing-semester-cn) ![GitHub stars](https://img.shields.io/github/stars/missing-semester-cn/missing-semester-cn?style=social) |
+
 ## 🧮 模板与写作工具
 
 ### 论文/实验报告模板
@@ -190,7 +195,7 @@
 | [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) ※ | 简洁好用的 MkDocs 文档主题 | [GitHub](https://github.com/squidfunk/mkdocs-material) ![GitHub stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social) | [squidfunk](https://github.com/squidfunk) |
 | [GitHub Pages](https://docs.github.com/en/pages) ※ | GitHub Pages 文档 | GitHub | [GitHub](https://github.com/github) |
 | [mkdocs-toolchain](https://github.com/TonyCrane/mkdocs-toolchain) | TonyCrane's Mkdocs toolchain | GitHub ![GitHub stars](https://img.shields.io/github/stars/TonyCrane/mkdocs-toolchain?style=social) | [TonyCrane](https://github.com/TonyCrane) |
-| [Replicon](https://github.com/inuEbisu/Replicon?tab=readme-ov-file) | 基于 Typecho 默认主题 Replica 开发的博客主题 | GitHub ![GitHub stars](https://img.shields.io/github/stars/inuEbisu/Replicon?style=social) | [犬戎](https://github.com/inuEbisu) |
+| [Replicon](https://github.com/inuEbisu/Replicon?tab=readme-ov-file) | 基于 Typecho 默认主题开发的博客主题 | GitHub ![GitHub stars](https://img.shields.io/github/stars/inuEbisu/Replicon?style=social) | [犬戎](https://github.com/inuEbisu) |
 
 ### 绘图
 
@@ -240,6 +245,7 @@
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
 | [CC98-Desktop](https://github.com/Ginsenvey/CC98-Desktop) | CC98 的 Windows 11 桌面客户端 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Ginsenvey/CC98-Desktop?style=social) | [Ginsenvey](https://github.com/Ginsenvey) |
+| [浙里办 APP](https://www.zjzwfw.gov.cn/jpccweb/zlbAPPxz/zlbAPPxz/index.html) ※ | 浙江政务服务 APP 下载 | Web | - |
 
 ## Contributing
 
