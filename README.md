@@ -152,6 +152,7 @@
 | [数学之韵](https://zju_math.pages.zjusct.io/mathweb/) | 数学专业课程经验与学习资料共享 | [ZJU Git](https://git.zju.edu.cn/zju_math/mathweb) |
 | [力速双 A - ZJUSAA](https://fsaa.pages.zjusct.io/fsaa/) | 航空航天学院学习分享平台 | [ZJU Git](https://git.zju.edu.cn/fsaa/fsaa) |
 | [Hikari of ME](https://pages.koala-studio.org.cn/hikari-of-me-6645ba/) | 机械学院资源整理站 | [ZJU Git](https://git.zju.edu.cn/hikari-of-me/hikari-of-me) |
+| [控制学习驿站](https://ctrl-a.pages.zjusct.io/CseHub/) | 控制学院学习资源整理站 | [ZJU Git](https://git.zju.edu.cn/ctrl-a/CseHub) |
 
 | 名称 | 简介 | 来源 |
 |------|------|------|
