@@ -39,27 +39,30 @@
 | [Quantum](https://github.com/XmmShp/Quantum) | 服务于 ZJUers 的桌面端工具箱 | GitHub ![GitHub stars](https://img.shields.io/github/stars/XmmShp/Quantum?style=social) | [XmmShp](https://github.com/XmmShp) |
 | [ZJU-MOTIS](https://github.com/xi2p/ZJU-MOTIS) | 选课辅助系统 | GitHub ![GitHub stars](https://img.shields.io/github/stars/xi2p/ZJU-MOTIS?style=social) | [xi2p](https://github.com/xi2p) |
 | [chalaoshi](https://github.com/zjuchalaoshi/chalaoshi?tab=readme-ov-file) ※ | 匿名评教工具 | GitHub ![GitHub stars](https://img.shields.io/github/stars/zjuchalaoshi/chalaoshi?style=social) | [zjuchalaoshi](https://github.com/zjuchalaoshi) |
+| [正版软件管理与服务平台](http://ms.zju.edu.cn/) | 浙江大学正版软件管理与服务平台 | Web | - |
 
 ### 网站类
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
 | [思政刷题器](https://study.zjueva.net/) | 思政在线刷题工具 | Web | [ADSR1042](https://github.com/ADSR1042) |
-| [大英默写器](https://eng.zjueva.net/) | 英语单词默写工具 | Web | [ADSR1042](https://github.com/ADSR1042) |
+| [大英默写器](https://eng.zjueva.net/) | 英语单词默写工具 | [GitHub](https://github.com/ADSR1042/ZJU_VocabBoost) ![GitHub stars](https://img.shields.io/github/stars/ADSR1042/ZJU_VocabBoost?style=social) | [ADSR1042](https://github.com/ADSR1042) |
 | [iLovePDF](https://www.ilovepdf.com/zh-cn) ※ | PDF 文件在线处理工具 | Web | - |
+| [浙江大学图书馆中文网](https://libweb.zju.edu.cn/) | 浙江大学图书馆中文网 | Web | - |
+| [浙江大学图书馆预约系统](https://booking.lib.zju.edu.cn/) | 图书馆预约系统 | Web | - |
 
 ### 脚本类
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
-| [Learning-at-ZJU-Helper](https://github.com/memset0/Learning-at-ZJU-Helper) | 学在浙大 / 智云课堂辅助脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/memset0/Learning-at-ZJU-Helper?style=social) | [memset0](https://github.com/memset0) |
 | [Lazuli](https://chromewebstore.google.com/detail/lazuli/gpiacjfgnabenbpincmnbinfmbihloed) | 浙江大学教务系统增强插件 | Chrome 应用商店 ![Chorme Store Users](https://img.shields.io/chrome-web-store/users/gpiacjfgnabenbpincmnbinfmbihloed?style=social&logo=chromewebstore)  | [ADSR1042](https://github.com/ADSR1042) |
+| [Learning-at-ZJU-Helper](https://github.com/memset0/Learning-at-ZJU-Helper) | 学在浙大 / 智云课堂辅助脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/memset0/Learning-at-ZJU-Helper?style=social) | [memset0](https://github.com/memset0) |
+| [学在浙大待办事项链接修复](https://greasyfork.org/zh-CN/scripts/513507-%E5%AD%A6%E5%9C%A8%E6%B5%99%E5%A4%A7%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9%E9%93%BE%E6%8E%A5%E4%BF%AE%E5%A4%8D) | 学在浙大待办事项链接修复 | Greasy Fork ![Greasy Fork installs](https://img.shields.io/greasyfork/dt/513507?style=social&logo=greasyfork) | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [智云课堂小助手 PC 端](https://www.cc98.org/topic/5648174) | 一键下载课程回放 / PPT / 字幕 | CC98 | [非牛顿流体](https://www.cc98.org/user/id/613815) |
 | [智云课堂批量下载](https://greasyfork.org/zh-CN/scripts/514465-%E6%99%BA%E4%BA%91%E8%AF%BE%E5%A0%82%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD) | 批量下载课程视频的脚本 | Greasy Fork ![Greasy Fork installs](https://img.shields.io/greasyfork/dt/514465?style=social&logo=greasyfork) | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
-| [学在浙大待办事项链接修复](https://greasyfork.org/zh-CN/scripts/513507-%E5%AD%A6%E5%9C%A8%E6%B5%99%E5%A4%A7%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9%E9%93%BE%E6%8E%A5%E4%BF%AE%E5%A4%8D) | 学在浙大待办事项链接修复 | Greasy Fork ![Greasy Fork installs](https://img.shields.io/greasyfork/dt/513507?style=social&logo=greasyfork) | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [智云课堂搜索显示学期](https://greasyfork.org/zh-CN/scripts/498824-%E6%99%BA%E4%BA%91%E8%AF%BE%E5%A0%82%E6%90%9C%E7%B4%A2%E6%98%BE%E7%A4%BA%E5%AD%A6%E6%9C%9F) | 优化课程搜索体验 | Greasy Fork ![Greasy Fork installs](https://img.shields.io/greasyfork/dt/498824?style=social&logo=greasyfork) | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
-| [教学管理一键评教](https://greasyfork.org/zh-CN/scripts/498990-%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E6%95%99%E5%AD%A6%E7%AE%A1%E7%90%86%E4%B8%80%E9%94%AE%E8%AF%84%E6%95%99) | 一键评教 | Greasy Fork ![Greasy Fork installs](https://img.shields.io/greasyfork/dt/498990?style=social&logo=greasyfork) | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [智云导出 ppt 和字幕组合](https://github.com/Auspiow/zhiyun-extension) | 智云课堂辅助脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Auspiow/zhiyun-extension?style=social) | [Auspiow](https://github.com/Auspiow) |
+| [教学管理一键评教](https://greasyfork.org/zh-CN/scripts/498990-%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E6%95%99%E5%AD%A6%E7%AE%A1%E7%90%86%E4%B8%80%E9%94%AE%E8%AF%84%E6%95%99) | 一键评教 | Greasy Fork ![Greasy Fork installs](https://img.shields.io/greasyfork/dt/498990?style=social&logo=greasyfork) | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [website-converter](https://github.com/Slowist-Lee/website-converter) | WebVPN 链接转换器 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Slowist-Lee/website-converter?style=social) | [Slowist-Lee](https://github.com/Slowist-Lee) |
 
 ### 部分 Web 插件
@@ -101,6 +104,7 @@
 | [zotero-style](https://github.com/MuiseDestiny/zotero-style) ※ | Ethereal Style for Zotero | GitHub ![GitHub stars](https://img.shields.io/github/stars/MuiseDestiny/zotero-style?style=social) | [MuiseDestiny](https://github.com/MuiseDestiny) |
 | [DownGit](https://www.itsvse.com/downgit/#/home) ※ | Create GitHub Resource Download Link | [GitHub](https://github.com/MinhasKamal/DownGit) ![GitHub stars](https://img.shields.io/github/stars/MinhasKamal/DownGit?style=social) | [MinhasKamal](https://github.com/MinhasKamal) |
 | [GitHub-proxy](https://gh-proxy.com/) ※ | GitHub 文件代理加速 | Web | - |
+| [ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) ※ | Collaboratively track worldwide conference deadlines | GitHub ![GitHub stars](https://img.shields.io/github/stars/ccfddl/ccf-deadlines?style=social) | [ccfddl](https://github.com/ccfddl) |
 
 ## ⏰ 时间管理与日程同步
 
@@ -119,6 +123,7 @@
 | [zju-connect](https://github.com/Mythologyli/zju-connect) | ZJU RVPN 客户端的 Go 实现 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Mythologyli/zju-connect?style=social) | [Mythologyli](https://github.com/Mythologyli) |
 | [ZJU-Rule](https://github.com/SubConv/ZJU-Rule) | ZJU Clash 分流规则 | GitHub ![GitHub stars](https://img.shields.io/github/stars/SubConv/ZJU-Rule?style=social) | [wouiSB](https://github.com/wouiSB) |
 | [EZ4Connect](https://github.com/PageChen04/EZ4Connect) | 改进的 ZJU-Connect 图形界面（支持 macOS 和 Linux 系统） | GitHub ![GitHub stars](https://img.shields.io/github/stars/PageChen04/EZ4Connect?style=social) | [PageChen04](https://github.com/PageChen04) |
+| [myvpn](https://myvpn.zju.edu.cn/) | 网费缴纳/套餐更换/邮箱别名 | Web | - |
 
 ## 📓 资源、笔记与教程
 
@@ -183,21 +188,22 @@
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
 | [slide-template](https://github.com/TonyCrane/slide-template) | slide template for **reveal-md** | GitHub ![GitHub stars](https://img.shields.io/github/stars/TonyCrane/slide-template?style=social) | [TonyCrane](https://github.com/TonyCrane) |
-| [浙大 PPT 模板分享](https://www.cc98.org/topic/5906507) | 求是蓝 / 答辩模板合集 | CC98 | [空山岁月老](https://www.cc98.org/user/id/654921) |
-| [Awesome PPTs](https://www.cc98.org/topic/6290594)| CC98 版面 PPT 制作帖合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
 | [BeamerthemeFormal](https://github.com/HGGshiwo/BeamerthemeFormal) | Beamer 模版 | GitHub ![GitHub stars](https://img.shields.io/github/stars/HGGshiwo/BeamerthemeFormal?style=social) | [HGGshiwo](https://github.com/HGGshiwo) |
 | [ZJU-Beamer-Template](https://github.com/qychen2001/ZJU-Beamer-Template) | Beamer 模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/qychen2001/ZJU-Beamer-Template?style=social) | [qychen2001](https://github.com/qychen2001) |
 | [SlideTemplate](https://github.com/inuEbisu/SlideTemplate) | MkSlides 模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/inuEbisu/SlideTemplate?style=social) | [犬戎](https://github.com/inuEbisu) |
+| [浙大 PPT 模板分享](https://www.cc98.org/topic/5906507) | 求是蓝 / 答辩模板合集 | CC98 | [空山岁月老](https://www.cc98.org/user/id/654921) |
+| [Awesome PPTs](https://www.cc98.org/topic/6290594)| CC98 版面 PPT 制作帖合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
 
 ### 网站
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
+| [GitHub Pages](https://docs.github.com/en/pages) ※ | GitHub Pages 文档 | GitHub | [GitHub](https://github.com/github) |
+| [Replicon](https://github.com/inuEbisu/Replicon?tab=readme-ov-file) | 基于 Typecho 默认主题开发的博客主题 | GitHub ![GitHub stars](https://img.shields.io/github/stars/inuEbisu/Replicon?style=social) | [犬戎](https://github.com/inuEbisu) |
 | [academicpages](https://github.com/academicpages/academicpages.github.io) ※ | 学术网页模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io?style=social) | [academicpages](https://github.com/academicpages) |
 | [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) ※ | 简洁好用的 MkDocs 文档主题 | [GitHub](https://github.com/squidfunk/mkdocs-material) ![GitHub stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=social) | [squidfunk](https://github.com/squidfunk) |
-| [GitHub Pages](https://docs.github.com/en/pages) ※ | GitHub Pages 文档 | GitHub | [GitHub](https://github.com/github) |
+| [Mkdocs 中文教程](https://wcowin.work/Mkdocs-Wcowin/) ※ | 自制 Mkdocs 中文教程 | [GitHub](https://github.com/Wcowin/Mkdocs-Wcowin) ![GitHub stars](https://img.shields.io/github/stars/Wcowin/Mkdocs-Wcowin?style=social) | [wcowin](https://wcowin.work/) |
 | [mkdocs-toolchain](https://github.com/TonyCrane/mkdocs-toolchain) | TonyCrane's Mkdocs toolchain | GitHub ![GitHub stars](https://img.shields.io/github/stars/TonyCrane/mkdocs-toolchain?style=social) | [TonyCrane](https://github.com/TonyCrane) |
-| [Replicon](https://github.com/inuEbisu/Replicon?tab=readme-ov-file) | 基于 Typecho 默认主题开发的博客主题 | GitHub ![GitHub stars](https://img.shields.io/github/stars/inuEbisu/Replicon?style=social) | [犬戎](https://github.com/inuEbisu) |
 
 ### 绘图
 
@@ -236,6 +242,10 @@
 | 名称 | 简介 | 来源 |
 |------|------|------|
 | [ZJU 轻首页](https://zjuers.com/) | 浙江大学轻量级导航主页 | Web |
+| [CC98论坛](https://www.cc98.org/) | 浙江大学 CC98 论坛 | Web |
+| [学在浙大](https://course.zju.edu.cn/) | 课程作业/实验/考试 | Web |
+| [智云课堂](https://classroom.zju.edu.cn/) | 课程直播/回放 | Web |
+| [NexusHD](https://www.nexushd.org/) | 高清资源下载 | Web |
 | [ZJU Git](https://git.zju.edu.cn) | 浙江大学 GitLab | Web |
 | [ZJU Mirror](https://mirrors.zju.edu.cn/) | 浙江大学开源镜像站 | Web |
 | [ZJU School-Bus](https://zjusec.com/) | 浙江大学 CTF 练习平台 | Web |
