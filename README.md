@@ -242,7 +242,7 @@
 | 名称 | 简介 | 来源 |
 |------|------|------|
 | [ZJU 轻首页](https://zjuers.com/) | 浙江大学轻量级导航主页 | Web |
-| [CC98论坛](https://www.cc98.org/) | 浙江大学 CC98 论坛 | Web |
+| [CC98 论坛](https://www.cc98.org/) | 浙江大学 CC98 论坛 | Web |
 | [学在浙大](https://course.zju.edu.cn/) | 课程作业/实验/考试 | Web |
 | [智云课堂](https://classroom.zju.edu.cn/) | 课程直播/回放 | Web |
 | [NexusHD](https://www.nexushd.org/) | 高清资源下载 | Web |
