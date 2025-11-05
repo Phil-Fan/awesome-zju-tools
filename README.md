@@ -20,7 +20,10 @@
   - [论文/实验报告模板](#论文实验报告模板)
   - [PPT/Slides](#pptslides)
   - [网站](#网站)
-  - [绘图](#绘图)
+- [🎨 图表与插图](#-图表与插图)
+  - [绘图工具](#绘图工具)
+  - [配色工具](#配色工具)
+  - [素材](#素材)
 - [🧑‍💻 ZJU Hacks](#-zju-hacks)
 - [🌐 其他](#-其他)
   - [网页](#网页)
@@ -48,8 +51,7 @@
 | [思政刷题器](https://study.zjueva.net/) | 思政在线刷题工具 | Web | [ADSR1042](https://github.com/ADSR1042) |
 | [大英默写器](https://eng.zjueva.net/) | 英语单词默写工具 | [GitHub](https://github.com/ADSR1042/ZJU_VocabBoost) ![GitHub stars](https://img.shields.io/github/stars/ADSR1042/ZJU_VocabBoost?style=social) | [ADSR1042](https://github.com/ADSR1042) |
 | [iLovePDF](https://www.ilovepdf.com/zh-cn) ※ | PDF 文件在线处理工具 | Web | - |
-| [浙江大学图书馆中文网](https://libweb.zju.edu.cn/) | 浙江大学图书馆中文网 | Web | - |
-| [浙江大学图书馆预约系统](https://booking.lib.zju.edu.cn/) | 图书馆预约系统 | Web | - |
+| [booking.lib](https://booking.lib.zju.edu.cn/) | 浙江大学图书馆预约系统 | Web | - |
 
 ### 脚本类
 
@@ -173,6 +175,7 @@
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
+| [Overleaf](https://www.overleaf.com) ※ | Online LaTeX editor | [GitHub](https://github.com/overleaf/overleaf) ![GitHub stars](https://img.shields.io/github/stars/overleaf/overleaf?style=social) | [Overleaf](https://github.com/overleaf) |
 | [zjuthesis](https://github.com/TheNetAdmin/zjuthesis) | 浙大毕业论文 LaTeX 模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/TheNetAdmin/zjuthesis?style=social) | [TheNetAdmin](https://github.com/TheNetAdmin) |
 | [zjureport](https://github.com/megrxu/zjureport)| 一份浙江大学 LaTeX 实验报告模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/megrxu/zjureport?style=social) | [megrxu](https://github.com/megrxu) |
 | [Overleaf 入门与 Latex 报告/作业模板](https://www.cc98.org/topic/5929587) | LaTeX 初学者指南 + 模板合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
@@ -205,15 +208,44 @@
 | [Mkdocs 中文教程](https://wcowin.work/Mkdocs-Wcowin/) ※ | 自制 Mkdocs 中文教程 | [GitHub](https://github.com/Wcowin/Mkdocs-Wcowin) ![GitHub stars](https://img.shields.io/github/stars/Wcowin/Mkdocs-Wcowin?style=social) | [wcowin](https://wcowin.work/) |
 | [mkdocs-toolchain](https://github.com/TonyCrane/mkdocs-toolchain) | TonyCrane's Mkdocs toolchain | GitHub ![GitHub stars](https://img.shields.io/github/stars/TonyCrane/mkdocs-toolchain?style=social) | [TonyCrane](https://github.com/TonyCrane) |
 
-### 绘图
+## 🎨 图表与插图
+
+### 绘图工具
 
 | 名称 | 简介 |
 |------|------|
 | [Excalidraw](https://excalidraw.com) ※ | 在线白板/矢量手绘风画图工具 |
 | [Eraser](https://app.eraser.io/dashboard/all) ※ | 团队协作绘图、流程图和头脑风暴工具 |
-| [draw.io](https://app.diagrams.net) ※ | 免费流程图和图表绘制工具 |
-| [Mermaid](https://mermaid.js.org/) ※ | 使用 Markdown 语法生成流程图、序列图、甘特图等 |
+| [draw.io](https://app.diagrams.net) ※ | 流程图和图表绘制工具 |
+| [Mermaid](https://mermaid.js.org/) ※ | Markdown 语法生成流程图、序列图、甘特图等 |
+| [TablesGenerator.com](https://www.tablesgenerator.com/) ※ | Create LaTeX tables online |
+| [TikZ](https://tikz.dev/) ※ | TEX commands that draw graphics. |
 | [Xmind](https://xmind.com/) ※ | 思维导图工具 |
+| [GeoGebra](https://www.geogebra.be/) ※ | 数学绘图工具 |
+| [Graph Editor](https://csacademy.com/app/graph_editor/) ※ | 图论简单绘图工具 |
+
+| 名称 | 简介 | 来源 | 作者/发起人 |
+|------|------|------|------|
+| [manim](https://github.com/3b1b/manim) ※ | 数学动画引擎 | GitHub ![GitHub stars](https://img.shields.io/github/stars/3b1b/manim?style=social) | [3b1b](https://github.com/3b1b) |
+| [matplotlib](https://github.com/matplotlib/matplotlib) ※ | Python 绘图工具 | GitHub ![GitHub stars](https://img.shields.io/github/stars/matplotlib/matplotlib?style=social) | [matplotlib](https://github.com/matplotlib) |
+| [seaborn](https://github.com/mwaskom/seaborn) ※ | Python 可视化工具 | GitHub ![GitHub stars](https://img.shields.io/github/stars/mwaskom/seaborn?style=social) | [mwaskom](https://github.com/mwaskom) |
+| [TikZ](https://github.com/PetarV-/TikZ/tree/master) ※ | 个人运营的 PGF/TikZ 图库 | GitHub ![GitHub stars](https://img.shields.io/github/stars/PetarV-/TikZ?style=social) | [PetarV-](https://github.com/PetarV-) |
+
+### 配色工具
+
+| 名称 | 简介 |
+|------|------|
+| [Coolors](https://coolors.co/) ※ | 在线配色工具 |
+| [colors](http://lcpmgh.com/colors/) ※ | 科研绘图配色推荐 |
+| [Happy Hues](https://www.happyhues.co/) ※ | Curated colors in context. |
+
+### 素材
+
+| 名称 | 简介 |
+|------|------|
+| [Simple Icons](https://simpleicons.org/) ※ | 图标库 |
+| [iconfont](https://www.iconfont.cn/) ※ | 阿里巴巴矢量图标库 |
+| [Pixian.AI](https://pixian.ai/) ※ | 在线抠图 |
 
 ## 🧑‍💻 ZJU Hacks
 
@@ -245,6 +277,7 @@
 | [CC98 论坛](https://www.cc98.org/) | 浙江大学 CC98 论坛 | Web |
 | [学在浙大](https://course.zju.edu.cn/) | 课程作业/实验/考试 | Web |
 | [智云课堂](https://classroom.zju.edu.cn/) | 课程直播/回放 | Web |
+| [图书馆](https://libweb.zju.edu.cn/) | 浙江大学图书馆中文网 | Web |
 | [NexusHD](https://www.nexushd.org/) | 高清资源下载 | Web |
 | [ZJU Git](https://git.zju.edu.cn) | 浙江大学 GitLab | Web |
 | [ZJU Mirror](https://mirrors.zju.edu.cn/) | 浙江大学开源镜像站 | Web |
@@ -261,7 +294,7 @@
 
 ## Contributing
 
-欢迎贡献更多 ZJU 效率工具与资源！  
+本项目聚焦能够提高 ZJUers 学习、科研与生活效率的工具、脚本、资源与模版，欢迎贡献！  
 
 你可以参照 [贡献指南](.github/CONTRIBUTING.md) 提交 Pull Request，或在 Issues 中推荐。
 
