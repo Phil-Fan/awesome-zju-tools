@@ -41,6 +41,7 @@
 | [fiz](https://github.com/CrazySpottedDove/fiz) | 高速简洁的学在浙大第三方 | GitHub ![GitHub stars](https://img.shields.io/github/stars/CrazySpottedDove/fiz?style=social) | [CrazySpottedDove](https://github.com/CrazySpottedDove) |
 | [Quantum](https://github.com/XmmShp/Quantum) | 服务于 ZJUers 的桌面端工具箱 | GitHub ![GitHub stars](https://img.shields.io/github/stars/XmmShp/Quantum?style=social) | [XmmShp](https://github.com/XmmShp) |
 | [ZJU-MOTIS](https://github.com/xi2p/ZJU-MOTIS) | 选课辅助系统 | GitHub ![GitHub stars](https://img.shields.io/github/stars/xi2p/ZJU-MOTIS?style=social) | [xi2p](https://github.com/xi2p) |
+| [LAZY CLI](https://github.com/YangShu233-Snow/Learning_at_ZJU_third_client) | 命令行里的学在浙大 | GitHub ![GitHub stars](https://img.shields.io/github/stars/YangShu233-Snow/Learning_at_ZJU_third_client?style=social) | [YangShu233-Snow](https://github.com/YangShu233-Snow) |
 | [chalaoshi](https://github.com/zjuchalaoshi/chalaoshi?tab=readme-ov-file) ※ | 匿名评教工具 | GitHub ![GitHub stars](https://img.shields.io/github/stars/zjuchalaoshi/chalaoshi?style=social) | [zjuchalaoshi](https://github.com/zjuchalaoshi) |
 | [正版软件管理与服务平台](http://ms.zju.edu.cn/) | 浙江大学正版软件管理与服务平台 | Web | - |
 
