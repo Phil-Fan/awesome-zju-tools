@@ -53,6 +53,9 @@
 | [大英默写器](https://eng.zjueva.net/) | 英语单词默写工具 | [GitHub](https://github.com/ADSR1042/ZJU_VocabBoost) ![GitHub stars](https://img.shields.io/github/stars/ADSR1042/ZJU_VocabBoost?style=social) | [ADSR1042](https://github.com/ADSR1042) |
 | [iLovePDF](https://www.ilovepdf.com/zh-cn) ※ | PDF 文件在线处理工具 | Web | - |
 | [booking.lib](https://booking.lib.zju.edu.cn/) | 浙江大学图书馆预约系统 | Web | - |
+| [CyberChef](https://cyberchef.io) ※ | The Cyber Swiss Army Knife | Web | - |
+| [WolframAlpha](https://www.wolframalpha.com/) ※ | 计算型知识引擎 | Web | - |
+| [一个木函](https://ol.woobx.cn/) ※ | 多功能效率工具箱 | Web | - |
 
 ### 脚本类
 
@@ -125,6 +128,7 @@
 | [zju-connect](https://github.com/Mythologyli/zju-connect) | ZJU RVPN 客户端的 Go 实现 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Mythologyli/zju-connect?style=social) | [Mythologyli](https://github.com/Mythologyli) |
 | [ZJU-Rule](https://github.com/SubConv/ZJU-Rule) | ZJU Clash 分流规则 | GitHub ![GitHub stars](https://img.shields.io/github/stars/SubConv/ZJU-Rule?style=social) | [wouiSB](https://github.com/wouiSB) |
 | [EZ4Connect](https://github.com/PageChen04/EZ4Connect) | 改进的 ZJU-Connect 图形界面（支持 macOS 和 Linux 系统） | GitHub ![GitHub stars](https://img.shields.io/github/stars/PageChen04/EZ4Connect?style=social) | [PageChen04](https://github.com/PageChen04) |
+| [浙大校园网网速测试](http://speedtest.zju.edu.cn/) | 校网测速 | Web | - |
 | [myvpn](https://myvpn.zju.edu.cn/) | 网费缴纳/套餐更换/邮箱别名 | Web | - |
 
 ## 📓 资源、笔记与教程
