@@ -273,6 +273,8 @@
 | [速刷新中特教学视频](https://www.cc98.org/topic/6003813) | 一键刷新中特教学视频 | CC98 | [吃个诸葛亮](https://www.cc98.org/user/id/613815) |
 | [迎新系统测试](https://www.cc98.org/topic/6249309/1#1) | 一键通过研究生迎新系统中学术规范和安全测试 | CC98 | [方の馒头](https://www.cc98.org/user/id/785112) |
 | [Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/IshiKura-a/Quicker?style=social) | [IshiKura-a](https://github.com/IshiKura-a) |
+| [Charge-in-ZJU](https://github.com/cyc-987/Charge-in-ZJU) | 浙大充电桩查询 | GitHub ![GitHub stars](https://img.shields.io/github/stars/cyc-987/Charge-in-ZJU?style=social) | [cyc-987](https://github.com/cyc-987) |
+| [ZJU-Charger](https://github.com/Phil-Fan/ZJU-Charger) | 基于 FastAPI 的充电桩状态查询后端与页面显示前端 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Phil-Fan/ZJU-Charger?style=social) | [Phil-Fan](https://github.com/Phil-Fan) |
 
 ## 🌐 其他
 
@@ -284,6 +286,7 @@
 | [CC98 论坛](https://www.cc98.org/) | 浙江大学 CC98 论坛 | Web |
 | [学在浙大](https://course.zju.edu.cn/) | 课程作业/实验/考试 | Web |
 | [智云课堂](https://classroom.zju.edu.cn/) | 课程直播/回放 | Web |
+| [浙江大学校园地图](https://map.zju.edu.cn/index) | 浙江大学校园地图 | Web |
 | [图书馆](https://libweb.zju.edu.cn/) | 浙江大学图书馆中文网 | Web |
 | [NexusHD](https://www.nexushd.org/) | 高清资源下载 | Web |
 | [ZJU Git](https://git.zju.edu.cn) | 浙江大学 GitLab | Web |
