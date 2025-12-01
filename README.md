@@ -274,7 +274,7 @@
 | [迎新系统测试](https://www.cc98.org/topic/6249309/1#1) | 一键通过研究生迎新系统中学术规范和安全测试 | CC98 | [方の馒头](https://www.cc98.org/user/id/785112) |
 | [Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/IshiKura-a/Quicker?style=social) | [IshiKura-a](https://github.com/IshiKura-a) |
 | [Charge-in-ZJU](https://github.com/cyc-987/Charge-in-ZJU) | 浙大充电桩查询 | GitHub ![GitHub stars](https://img.shields.io/github/stars/cyc-987/Charge-in-ZJU?style=social) | [cyc-987](https://github.com/cyc-987) |
-| [ZJU-Charger](https://github.com/Phil-Fan/ZJU-Charger) | 基于 FastAPI 的充电桩状态查询后端与页面显示前端 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Phil-Fan/ZJU-Charger?style=social) | [Phil-Fan](https://github.com/Phil-Fan) |
+| [ZJU-Charger](https://charger.philfan.cn/) | 基于 FastAPI 的校内充电桩状态查询网站 | [GitHub](https://github.com/Phil-Fan/ZJU-Charger) ![GitHub stars](https://img.shields.io/github/stars/Phil-Fan/ZJU-Charger?style=social) | [Phil-Fan](https://github.com/Phil-Fan) |
 
 ## 🌐 其他
 
