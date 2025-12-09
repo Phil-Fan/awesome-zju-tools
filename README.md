@@ -119,6 +119,8 @@
 | [ZJU-ICAL](https://ical.raynor.top/static) | 以订阅链接形式导入课表至系统日历 | GitHub ![GitHub stars](https://img.shields.io/github/stars/cxz66666/zju-ical?style=social) | [cxz66666](https://github.com/cxz66666) |
 | [zju-ical-py](https://github.com/Xecades/zju-ical-py?tab=readme-ov-file) | 基于 zju-ical 项目的 Python 重构版本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Xecades/zju-ical-py?style=social) | [Xecades](https://github.com/Xecades) |
 | [ZTA](https://github.com/wdtjm/zta) | 桌面端时间管理工具 | GitHub ![GitHub stars](https://img.shields.io/github/stars/wdtjm/zta?style=social) | [wdtjm](https://github.com/wdtjm) |
+| [ZJU-Charger](https://charger.philfan.cn/) | 便捷高效的校内充电桩查询助手 | [GitHub](https://github.com/ZJU-Charger/ZJU-Charger) ![GitHub stars](https://img.shields.io/github/stars/ZJU-Charger/ZJU-Charger?style=social) | [Phil-Fan](https://github.com/Phil-Fan) |
+| [Charge-in-ZJU](https://github.com/cyc-987/Charge-in-ZJU) | 浙大充电桩查询 | GitHub ![GitHub stars](https://img.shields.io/github/stars/cyc-987/Charge-in-ZJU?style=social) | [cyc-987](https://github.com/cyc-987) |
 
 ## 🌐 校园网络与系统工具
 
@@ -273,8 +275,6 @@
 | [速刷新中特教学视频](https://www.cc98.org/topic/6003813) | 一键刷新中特教学视频 | CC98 | [吃个诸葛亮](https://www.cc98.org/user/id/613815) |
 | [迎新系统测试](https://www.cc98.org/topic/6249309/1#1) | 一键通过研究生迎新系统中学术规范和安全测试 | CC98 | [方の馒头](https://www.cc98.org/user/id/785112) |
 | [Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/IshiKura-a/Quicker?style=social) | [IshiKura-a](https://github.com/IshiKura-a) |
-| [Charge-in-ZJU](https://github.com/cyc-987/Charge-in-ZJU) | 浙大充电桩查询 | GitHub ![GitHub stars](https://img.shields.io/github/stars/cyc-987/Charge-in-ZJU?style=social) | [cyc-987](https://github.com/cyc-987) |
-| [ZJU-Charger](https://charger.philfan.cn/) | 基于 FastAPI 的校内充电桩状态查询网站 | [GitHub](https://github.com/Phil-Fan/ZJU-Charger) ![GitHub stars](https://img.shields.io/github/stars/Phil-Fan/ZJU-Charger?style=social) | [Phil-Fan](https://github.com/Phil-Fan) |
 
 ## 🌐 其他
 
