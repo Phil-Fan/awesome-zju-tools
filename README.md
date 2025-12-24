@@ -11,7 +11,7 @@
   - [部分 Web 插件](#部分-web-插件)
 - [💡 AI 工具](#-ai-工具)
 - [⚙️ 科研工具](#️-科研工具)
-- [⏰ 时间管理与日程同步](#-时间管理与日程同步)
+- [⏰ 时间管理与生活](#-时间管理与生活)
 - [🌐 校园网络与系统工具](#-校园网络与系统工具)
 - [📓 资源、笔记与教程](#-资源笔记与教程)
   - [资源类](#资源类)
@@ -111,7 +111,7 @@
 | [GitHub-proxy](https://gh-proxy.com/) ※ | GitHub 文件代理加速 | Web | - |
 | [ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) ※ | Collaboratively track worldwide conference deadlines | GitHub ![GitHub stars](https://img.shields.io/github/stars/ccfddl/ccf-deadlines?style=social) | [ccfddl](https://github.com/ccfddl) |
 
-## ⏰ 时间管理与日程同步
+## ⏰ 时间管理与生活
 
 | 名称 | 简介 | 来源 | 作者/发起人 |
 |------|------|------|------|
@@ -121,6 +121,7 @@
 | [ZTA](https://github.com/wdtjm/zta) | 桌面端时间管理工具 | GitHub ![GitHub stars](https://img.shields.io/github/stars/wdtjm/zta?style=social) | [wdtjm](https://github.com/wdtjm) |
 | [ZJU-Charger](https://charger.philfan.cn/) | 便捷高效的校内充电桩查询助手 | [GitHub](https://github.com/ZJU-Charger/ZJU-Charger) ![GitHub stars](https://img.shields.io/github/stars/ZJU-Charger/ZJU-Charger?style=social) | [Phil-Fan](https://github.com/Phil-Fan) |
 | [Charge-in-ZJU](https://github.com/cyc-987/Charge-in-ZJU) | 浙大充电桩查询 | GitHub ![GitHub stars](https://img.shields.io/github/stars/cyc-987/Charge-in-ZJU?style=social) | [cyc-987](https://github.com/cyc-987) |
+| [neptune-auto-charger](https://github.com/Lucent-Snow/neptune-auto-charger/tree/main) | 充电桩自动续充脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Lucent-Snow/neptune-auto-charger?style=social) | [Lucent-Snow](https://github.com/Lucent-Snow) |
 
 ## 🌐 校园网络与系统工具
 
