@@ -39,9 +39,9 @@
 |------|------|------|------|
 | [zju-learning-assistant](https://github.com/PeiPei233/zju-learning-assistant) | 快速下载整门课件、PPT、视频 | GitHub ![GitHub stars](https://img.shields.io/github/stars/PeiPei233/zju-learning-assistant?style=social) | [PeiPei233](https://github.com/PeiPei233) |
 | [fiz](https://github.com/CrazySpottedDove/fiz) | 高速简洁的学在浙大第三方 | GitHub ![GitHub stars](https://img.shields.io/github/stars/CrazySpottedDove/fiz?style=social) | [CrazySpottedDove](https://github.com/CrazySpottedDove) |
+| [LAZY CLI](https://github.com/YangShu233-Snow/Learning_at_ZJU_third_client) | 命令行里的学在浙大 | GitHub ![GitHub stars](https://img.shields.io/github/stars/YangShu233-Snow/Learning_at_ZJU_third_client?style=social) | [YangShu233-Snow](https://github.com/YangShu233-Snow) |
 | [Quantum](https://github.com/XmmShp/Quantum) | 服务于 ZJUers 的桌面端工具箱 | GitHub ![GitHub stars](https://img.shields.io/github/stars/XmmShp/Quantum?style=social) | [XmmShp](https://github.com/XmmShp) |
 | [ZJU-MOTIS](https://github.com/xi2p/ZJU-MOTIS) | 选课辅助系统 | GitHub ![GitHub stars](https://img.shields.io/github/stars/xi2p/ZJU-MOTIS?style=social) | [xi2p](https://github.com/xi2p) |
-| [LAZY CLI](https://github.com/YangShu233-Snow/Learning_at_ZJU_third_client) | 命令行里的学在浙大 | GitHub ![GitHub stars](https://img.shields.io/github/stars/YangShu233-Snow/Learning_at_ZJU_third_client?style=social) | [YangShu233-Snow](https://github.com/YangShu233-Snow) |
 | [chalaoshi](https://github.com/zjuchalaoshi/chalaoshi?tab=readme-ov-file) ※ | 匿名评教工具 | GitHub ![GitHub stars](https://img.shields.io/github/stars/zjuchalaoshi/chalaoshi?style=social) | [zjuchalaoshi](https://github.com/zjuchalaoshi) |
 | [正版软件管理与服务平台](http://ms.zju.edu.cn/) | 浙江大学正版软件管理与服务平台 | Web | - |
 
@@ -276,6 +276,7 @@
 | [速刷新中特教学视频](https://www.cc98.org/topic/6003813) | 一键刷新中特教学视频 | CC98 | [吃个诸葛亮](https://www.cc98.org/user/id/613815) |
 | [迎新系统测试](https://www.cc98.org/topic/6249309/1#1) | 一键通过研究生迎新系统中学术规范和安全测试 | CC98 | [方の馒头](https://www.cc98.org/user/id/785112) |
 | [Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/IshiKura-a/Quicker?style=social) | [IshiKura-a](https://github.com/IshiKura-a) |
+| [Hack_XZZD](https://github.com/cyhkbl/Hack_XZZD/) | 学在浙大自动刷课 | GitHub ![GitHub stars](https://img.shields.io/github/stars/cyhkbl/Hack_XZZD?style=social) | [cyhkbl](https://github.com/cyhkbl) |
 
 ## 🌐 其他
 
