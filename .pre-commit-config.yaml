@@ -1,0 +1,11 @@
+repos:
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.13.0
+    hooks:
+      - id: markdownlint-cli2
+        args: ["--fix", "--config", ".github/.markdownlint.json"]
+
+  - repo: https://github.com/YuniqueUnic/autocorrect-pre-commit
+    rev: 2.14.0
+    hooks:
+      - id: autocorrect-fix

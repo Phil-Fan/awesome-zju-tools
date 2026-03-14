@@ -10,6 +10,8 @@
   - [脚本类](#脚本类)
   - [部分 Web 插件](#部分-web-插件)
 - [💡 AI 工具](#-ai-工具)
+  - [Agent](#agent)
+  - [Skill](#skill)
 - [⚙️ 科研工具](#️-科研工具)
 - [⏰ 时间管理与生活](#-时间管理与生活)
 - [🌐 校园网络与系统工具](#-校园网络与系统工具)
@@ -70,6 +72,7 @@
 | [智云课堂搜索显示学期](https://greasyfork.org/zh-CN/scripts/498824-%E6%99%BA%E4%BA%91%E8%AF%BE%E5%A0%82%E6%90%9C%E7%B4%A2%E6%98%BE%E7%A4%BA%E5%AD%A6%E6%9C%9F) | 优化课程搜索体验 | Greasy Fork ![Greasy Fork installs](https://img.shields.io/greasyfork/dt/498824?style=social&logo=greasyfork) | [Cold_Ink 杰](https://www.cc98.org/user/id/701617) |
 | [智云导出 ppt 和字幕组合](https://github.com/Auspiow/zhiyun-extension) | 智云课堂辅助脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Auspiow/zhiyun-extension?style=social) | [Auspiow](https://github.com/Auspiow) |
 | [website-converter](https://github.com/Slowist-Lee/website-converter) | WebVPN 链接转换器 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Slowist-Lee/website-converter?style=social) | [Slowist-Lee](https://github.com/Slowist-Lee) |
+| [ZJU-live-better](https://github.com/5dbwat4/ZJU-live-better) | A collection of useful scripts helping you live better in ZJU. | GitHub ![GitHub stars](https://img.shields.io/github/stars/5dbwat4/ZJU-live-better?style=social) | [5dbwat4](https://github.com/5dbwat4) |
 
 ### 部分 Web 插件
 
@@ -90,6 +93,23 @@
 | [ZChat](https://zchat.tech) | AI 聊天工具 |
 | [Chatbot Arena](https://openlm.ai/chatbot-arena/) ※ | Chatbot 排行榜 |
 | [SEAL LLM Leaderboards](https://scale.com/leaderboard) ※ | LLM 排行榜 |
+
+### Agent
+
+| 名称 | 简介 |
+|------|------|
+| [Claude Code](https://claude.ai/code) ※ | Claude Code |
+| [Codex](https://openai.com/zh-Hans-CN/codex/) ※ | Codex |
+
+### Skill
+
+| 名称 | 简介 | 来源 | 作者/发起人 |
+|------|------|------|------|
+| [Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) ※ | Skill package for ML/CV/NLP paper writing, curated and adapted from Prof. Peng Sida's open notes for Codex, Claude Code, and Gemini. | GitHub ![GitHub stars](https://img.shields.io/github/stars/Master-cai/Research-Paper-Writing-Skills?style=social) | [Master-cai](https://github.com/Master-cai) |
+| [claude-scientific-skills](https://github.com/k-dense-ai/claude-scientific-skills) ※ | A set of ready to use scientific skills for Claude | GitHub ![GitHub stars](https://img.shields.io/github/stars/k-dense-ai/claude-scientific-skills?style=social) | [k-dense-ai](https://github.com/k-dense-ai) |
+| [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) ※ | AI 类研究的 Skills | GitHub ![GitHub stars](https://img.shields.io/github/stars/Orchestra-Research/AI-research-SKILLs?style=social) | [Orchestra-Research](https://github.com/Orchestra-Research) |
+| [xmindify](https://github.com/Phil-Fan/xmindify) | MCP-APP server for Xmind, and a skill that can automatically generate mind maps in different scenarios with respect to .xmind syntax. | GitHub ![GitHub stars](https://img.shields.io/github/stars/Phil-Fan/xmindify?style=social) | [Phil-Fan](https://github.com/Phil-Fan) |
+| [zju-scholar](https://github.com/Lucent-Snow/zju-scholar?tab=readme-ov-file) | ZJU Scholar — Claude Code Skill for Zhejiang University academic data (timetable, grades, exams, homework, Zhiyun subtitles) | GitHub ![GitHub stars](https://img.shields.io/github/stars/Lucent-Snow/zju-scholar?style=social) | [Lucent-Snow](https://github.com/Lucent-Snow) |
 
 ## ⚙️ 科研工具
 
@@ -123,6 +143,7 @@
 | [ZJU-Charger](https://charger.philfan.cn/) | 便捷高效的校内充电桩查询助手 | [GitHub](https://github.com/ZJU-Charger/ZJU-Charger) ![GitHub stars](https://img.shields.io/github/stars/ZJU-Charger/ZJU-Charger?style=social) | [Phil-Fan](https://github.com/Phil-Fan) |
 | [Charge-in-ZJU](https://github.com/cyc-987/Charge-in-ZJU) | 浙大充电桩查询 | GitHub ![GitHub stars](https://img.shields.io/github/stars/cyc-987/Charge-in-ZJU?style=social) | [cyc-987](https://github.com/cyc-987) |
 | [neptune-auto-charger](https://github.com/Lucent-Snow/neptune-auto-charger/tree/main) | 充电桩自动续充脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Lucent-Snow/neptune-auto-charger?style=social) | [Lucent-Snow](https://github.com/Lucent-Snow) |
+| [zjuphylab.ics](https://github.com/5dbwat4/zjuphylab.ics) | 将浙江大学物理实验课表转为 iCalendar 格式 | GitHub ![GitHub stars](https://img.shields.io/github/stars/5dbwat4/zjuphylab.ics?style=social) | [5dbwat4](https://github.com/5dbwat4) |
 
 ## 🌐 校园网络与系统工具
 
@@ -279,6 +300,7 @@
 | [迎新系统测试](https://www.cc98.org/topic/6249309/1#1) | 一键通过研究生迎新系统中学术规范和安全测试 | CC98 | [方の馒头](https://www.cc98.org/user/id/785112) |
 | [Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/IshiKura-a/Quicker?style=social) | [IshiKura-a](https://github.com/IshiKura-a) |
 | [Hack_XZZD](https://github.com/cyhkbl/Hack_XZZD/) | 学在浙大自动刷课 | GitHub ![GitHub stars](https://img.shields.io/github/stars/cyhkbl/Hack_XZZD?style=social) | [cyhkbl](https://github.com/cyhkbl) |
+| [login-ZJU](https://github.com/5dbwat4/login-ZJU) | Server-side library helping your application login to ZJU services | GitHub ![GitHub stars](https://img.shields.io/github/stars/5dbwat4/login-ZJU?style=social) | [5dbwat4](https://github.com/5dbwat4) |
 
 ## 🌐 其他
 
