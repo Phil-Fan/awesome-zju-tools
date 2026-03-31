@@ -110,6 +110,7 @@
 | [Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs) ※ | AI 类研究的 Skills | GitHub ![GitHub stars](https://img.shields.io/github/stars/Orchestra-Research/AI-research-SKILLs?style=social) | [Orchestra-Research](https://github.com/Orchestra-Research) |
 | [xmindify](https://github.com/Phil-Fan/xmindify) | MCP-APP server for Xmind, and a skill that can automatically generate mind maps in different scenarios with respect to .xmind syntax. | GitHub ![GitHub stars](https://img.shields.io/github/stars/Phil-Fan/xmindify?style=social) | [Phil-Fan](https://github.com/Phil-Fan) |
 | [zju-scholar](https://github.com/Lucent-Snow/zju-scholar?tab=readme-ov-file) | ZJU Scholar — Claude Code Skill for Zhejiang University academic data (timetable, grades, exams, homework, Zhiyun subtitles) | GitHub ![GitHub stars](https://img.shields.io/github/stars/Lucent-Snow/zju-scholar?style=social) | [Lucent-Snow](https://github.com/Lucent-Snow) |
+| [openclaw-zju-skills](https://github.com/Zarad0X/openclaw-zju-skills) | 🎓 OpenClaw skills for Zhejiang University — courses, email, grades, CC98 forum automation | GitHub ![GitHub stars](https://img.shields.io/github/stars/Zarad0X/openclaw-zju-skills?style=social) | [Zarad0X](https://github.com/Zarad0X) |
 
 ## ⚙️ 科研工具
 
