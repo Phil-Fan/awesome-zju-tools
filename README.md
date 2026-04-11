@@ -229,6 +229,9 @@
 | [SlideTemplate](https://github.com/inuEbisu/SlideTemplate) | MkSlides 模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/inuEbisu/SlideTemplate?style=social) | [犬戎](https://github.com/inuEbisu) |
 | [Awesome PPTs](https://phil-fan.github.io/PPT/)| 个人 PPT 制作经验与 CC98 版搜合集 | [GitHub](https://github.com/Phil-Fan/PPT) ![GitHub stars](https://img.shields.io/github/stars/Phil-Fan/PPT?style=social) | [PhilFan](https://www.cc98.org/user/id/701211)|
 | [浙大 PPT 模板分享](https://www.cc98.org/topic/5906507) | 求是蓝 / 答辩模板合集 | CC98 | [空山岁月老](https://www.cc98.org/user/id/654921) |
+| [GuaYsu/marp-theme-zju-enhanced](https://github.com/GuaYsu/marp-theme-zju-enhanced) | an enhanced marp theme | GitHub ![GitHub stars](https://img.shields.io/github/stars/GuaYsu/marp-theme-zju-enhanced?style=social) | [GuaYsu](https://github.com/GuaYsu) |
+| [CouesF/marp-theme-zju](https://github.com/CouesF/marp-theme-zju) | a marp theme | GitHub ![GitHub stars](https://img.shields.io/github/stars/CouesF/marp-theme-zju?style=social) | [CouesF](https://github.com/CouesF) |
+| [Slidev 模板分享](https://www.cc98.org/topic/6378710) | Slidev 模板分享 | CC98 | [TrojanPt](https://www.cc98.org/user/id/766213) |
 
 ### 网站
 
