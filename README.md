@@ -232,6 +232,7 @@
 | [GuaYsu/marp-theme-zju-enhanced](https://github.com/GuaYsu/marp-theme-zju-enhanced) | an enhanced marp theme | GitHub ![GitHub stars](https://img.shields.io/github/stars/GuaYsu/marp-theme-zju-enhanced?style=social) | [GuaYsu](https://github.com/GuaYsu) |
 | [CouesF/marp-theme-zju](https://github.com/CouesF/marp-theme-zju) | a marp theme | GitHub ![GitHub stars](https://img.shields.io/github/stars/CouesF/marp-theme-zju?style=social) | [CouesF](https://github.com/CouesF) |
 | [Slidev 模板分享](https://www.cc98.org/topic/6378710) | Slidev 模板分享 | CC98 | [TrojanPt](https://www.cc98.org/user/id/766213) |
+| [touying-typ/touying](https://github.com/touying-typ/touying) ※ | Touying is a powerful package for creating presentation slides in Typst. | GitHub ![GitHub stars](https://img.shields.io/github/stars/touying-typ/touying?style=social) | [touying-typ](https://github.com/touying-typ) |
 
 ### 网站
 
