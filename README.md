@@ -111,6 +111,7 @@
 | [xmindify](https://github.com/Phil-Fan/xmindify) | MCP-APP server for Xmind, and a skill that can automatically generate mind maps in different scenarios with respect to .xmind syntax. | GitHub ![GitHub stars](https://img.shields.io/github/stars/Phil-Fan/xmindify?style=social) | [Phil-Fan](https://github.com/Phil-Fan) |
 | [zju-scholar](https://github.com/Lucent-Snow/zju-scholar?tab=readme-ov-file) | ZJU Scholar — Claude Code Skill for Zhejiang University academic data (timetable, grades, exams, homework, Zhiyun subtitles) | GitHub ![GitHub stars](https://img.shields.io/github/stars/Lucent-Snow/zju-scholar?style=social) | [Lucent-Snow](https://github.com/Lucent-Snow) |
 | [openclaw-zju-skills](https://github.com/Zarad0X/openclaw-zju-skills) | 🎓 OpenClaw skills for Zhejiang University — courses, email, grades, CC98 forum automation | GitHub ![GitHub stars](https://img.shields.io/github/stars/Zarad0X/openclaw-zju-skills?style=social) | [Zarad0X](https://github.com/Zarad0X) |
+| [nature-skills](https://github.com/Yuan1z0825/nature-skills) ※ | 符合 Nature 论文学术表达和科研绘图的 Skill | GitHub ![GitHub stars](https://img.shields.io/github/stars/Yuan1z0825/nature-skills?style=social) | [Yuan1z0825](https://github.com/Yuan1z0825) |
 
 ## ⚙️ 科研工具
 
@@ -212,6 +213,7 @@
 | [zjureport](https://github.com/megrxu/zjureport)| 一份浙江大学 LaTeX 实验报告模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/megrxu/zjureport?style=social) | [megrxu](https://github.com/megrxu) |
 | [Overleaf 入门与 Latex 报告/作业模板](https://www.cc98.org/topic/5929587) | LaTeX 初学者指南 + 模板合集 | CC98 | [PhilFan](https://www.cc98.org/user/id/701211)|
 | [zju-resume-template](https://github.com/maksymilan/zju-resume-template)| 浙江大学 LaTeX 简历模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/maksymilan/zju-resume-template?style=social) | [maksymilan](https://github.com/maksymilan) |
+| [resume](https://github.com/billryan/resume) ※ | An elegant \LaTeX\ résumé template | GitHub ![GitHub stars](https://img.shields.io/github/stars/billryan/resume?style=social) | [billryan](https://github.com/billryan) |
 | [typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)| 将 Typora 伪装成 LaTeX 的中文样式主题 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Keldos-Li/typora-latex-theme?style=social) | [Keldos-Li](https://github.com/Keldos-Li) |
 | [modern-zju-thesis](https://github.com/Shuenhoy/modern-zju-thesis) | 浙江大学 Typst 学位论文模版 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Shuenhoy/modern-zju-thesis?style=social) | [Shuenhoy](https://github.com/Shuenhoy) |
 | [ZJU-Project-Report-Template](https://github.com/memset0/ZJU-Project-Report-Template)| Typst 项目报告模板 | GitHub ![GitHub stars](https://img.shields.io/github/stars/memset0/ZJU-Project-Report-Template?style=social) | [memset0](https://github.com/memset0) |
