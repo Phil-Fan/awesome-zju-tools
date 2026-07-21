@@ -73,6 +73,7 @@
 | [智云导出 ppt 和字幕组合](https://github.com/Auspiow/zhiyun-extension) | 智云课堂辅助脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Auspiow/zhiyun-extension?style=social) | [Auspiow](https://github.com/Auspiow) |
 | [website-converter](https://github.com/Slowist-Lee/website-converter) | WebVPN 链接转换器 | GitHub ![GitHub stars](https://img.shields.io/github/stars/Slowist-Lee/website-converter?style=social) | [Slowist-Lee](https://github.com/Slowist-Lee) |
 | [ZJU-live-better](https://github.com/5dbwat4/ZJU-live-better) | A collection of useful scripts helping you live better in ZJU. | GitHub ![GitHub stars](https://img.shields.io/github/stars/5dbwat4/ZJU-live-better?style=social) | [5dbwat4](https://github.com/5dbwat4) |
+| [Markdown 转 CC98](https://www.cc98.org/topic/6580308) | Markdown 搬到 CC98：自动转换格式、批量上传图片 | CC98 | [StevenStg](https://www.cc98.org/user/id/670051) |
 
 ### 部分 Web 插件
 
@@ -125,6 +126,8 @@
 |------|------|------|------|
 | [AI-research-tools](https://github.com/bighuang624/AI-research-tools) ※ | AI 方向好用的科研工具合集 | GitHub ![GitHub stars](https://img.shields.io/github/stars/bighuang624/AI-research-tools?style=social) | [bighuang624](https://github.com/bighuang624) |
 | [cool papers](https://papers.cool) ※ | 沉浸式刷论文 | [GitHub](https://github.com/bojone/papers.cool) ![GitHub stars](https://img.shields.io/github/stars/bojone/papers.cool?style=social) | [苏剑林](https://kexue.fm) |
+| [Zotero](https://github.com/zotero/zotero) ※ | 文献管理工具 | [Zotero](https://www.zotero.org) | - |
+| [Agentero](https://agentero.poco-ai.com) | Agent-first 文献管理 | [Agentero](https://agentero.poco-ai.com/zh) | [Phil-Fan](https://github.com/Phil-Fan) |
 | [zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) ※ | 每日论文推荐 | GitHub ![GitHub stars](https://img.shields.io/github/stars/TideDra/zotero-arxiv-daily?style=social) | [TideDra](https://github.com/TideDra) |
 | [zotero-better-notes](https://github.com/windingwind/zotero-better-notes) | [化繁为简，快速提炼：Zotero 文献笔记最佳实践 - CC98 论坛](https://www.cc98.org/topic/5348707) | GitHub ![GitHub stars](https://img.shields.io/github/stars/windingwind/zotero-better-notes?style=social) | [windingwind](https://github.com/windingwind) |
 | [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) | 翻译 PDF, EPub, webpage, metadata, annotations, notes | GitHub ![GitHub stars](https://img.shields.io/github/stars/windingwind/zotero-pdf-translate?style=social) | [windingwind](https://github.com/windingwind) |
@@ -308,6 +311,7 @@
 | [Quicker](https://github.com/IshiKura-a/Quicker) | 场馆预约自动化脚本 | GitHub ![GitHub stars](https://img.shields.io/github/stars/IshiKura-a/Quicker?style=social) | [IshiKura-a](https://github.com/IshiKura-a) |
 | [Hack_XZZD](https://github.com/cyhkbl/Hack_XZZD/) | 学在浙大自动刷课 | GitHub ![GitHub stars](https://img.shields.io/github/stars/cyhkbl/Hack_XZZD?style=social) | [cyhkbl](https://github.com/cyhkbl) |
 | [login-ZJU](https://github.com/5dbwat4/login-ZJU) | Server-side library helping your application login to ZJU services | GitHub ![GitHub stars](https://img.shields.io/github/stars/5dbwat4/login-ZJU?style=social) | [5dbwat4](https://github.com/5dbwat4) |
+| [CC98_Filter](https://github.com/BeringZ/CC98_Filter) | CC98 过滤器 | GitHub ![GitHub stars](https://img.shields.io/github/stars/BeringZ/CC98_Filter?style=social) | [BeringZ](https://github.com/BeringZ) |
 
 ## 🌐 其他
 
