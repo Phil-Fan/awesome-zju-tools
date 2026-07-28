@@ -7,6 +7,7 @@ const root = path.dirname(fileURLToPath(import.meta.url));
 
 /** @type {import('next').NextConfig} */
 const config = {
+  output: 'export',
   reactStrictMode: true,
   turbopack: {
     root,
@@ -34,15 +35,6 @@ const config = {
         hostname: 'awesome.re',
       },
     ],
-  },
-  async redirects() {
-    return [
-      {
-        source: '/docs',
-        destination: '/docs/learning',
-        permanent: false,
-      },
-    ];
   },
 };
 
