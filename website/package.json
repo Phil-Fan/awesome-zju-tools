@@ -1,0 +1,32 @@
+{
+  "name": "awesome-zju-tools-website",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start",
+    "postinstall": "fumadocs-mdx",
+    "types:check": "fumadocs-mdx && next typegen && tsc --noEmit"
+  },
+  "dependencies": {
+    "cnfast": "^0.0.8",
+    "fumadocs-core": "^16.13.0",
+    "fumadocs-mdx": "^15.2.0",
+    "fumadocs-ui": "^16.13.0",
+    "lucide-react": "^0.525.0",
+    "next": "^16.2.12",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "@types/mdx": "^2.0.13",
+    "@types/node": "^22.15.30",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11",
+    "typescript": "^5.8.3"
+  }
+}

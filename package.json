@@ -1,0 +1,9 @@
+{
+  "name": "awesome-zju-tools",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --dir website dev",
+    "build": "pnpm --dir website build",
+    "start": "pnpm --dir website start"
+  }
+}

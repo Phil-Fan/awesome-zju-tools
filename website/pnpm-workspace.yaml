@@ -1,0 +1,14 @@
+# Isolate this package from parent directories that may contain
+# a pnpm-workspace.yaml (e.g. $HOME) with global allowBuilds settings.
+packages:
+  - .
+
+allowBuilds:
+  esbuild: true
+  sharp: true
+  canvas: true
+
+minimumReleaseAgeExclude:
+  - fumadocs-core
+  - fumadocs-ui
+  - fumadocs-mdx

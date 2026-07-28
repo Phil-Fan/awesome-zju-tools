@@ -19,9 +19,20 @@ awesome-zju-tools/
 ├── .github/workflows/check.yml
 ├── .pre-commit-config.yaml
 ├── README.md                 # ★ 主内容
+├── website/                  # Fumadocs + Next.js 站点
+│   ├── content/docs/         # 分类 MDX（自 README 整理）
+│   └── package.json
 ├── AGENTS.md
 └── …
 ```
+
+## 站点（Fumadocs）
+
+```bash
+cd website && pnpm install && pnpm dev
+```
+
+内容在 `website/content/docs/`，按 README 分类拆页；增删资源时同步更新 README 与对应 MDX。
 
 ## 提交前质量检查（强制）
 
