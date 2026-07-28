@@ -6,7 +6,7 @@ export function baseOptions(): BaseLayoutProps {
     nav: {
       title: (
         <>
-          <span className="font-semibold">{appName}</span>
+          <span className="font-display font-semibold">{appName}</span>
         </>
       ),
     },
