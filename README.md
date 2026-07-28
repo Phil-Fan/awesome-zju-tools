@@ -21,7 +21,6 @@
 ## 致谢
 
 - 本项目使用 [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) 生成项目 README 大纲。
-- 使用 [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/)、[markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) 与 [GitHub Actions](https://github.com/features/actions) 进行自动化检查。
 - 使用 [Text to ASCII Art Generator](https://patorjk.com/software/taag/) 生成项目 Logo。
 - 使用 [Shields.io](https://shields.io) 生成项目徽章。
 - 感谢所有 Contributors！
