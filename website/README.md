@@ -10,7 +10,7 @@ pnpm install
 pnpm dev
 ```
 
-打开 http://localhost:3000
+打开 <http://localhost:3000>
 
 ## 构建
 

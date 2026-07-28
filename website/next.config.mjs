@@ -13,6 +13,7 @@ const config = {
     root,
   },
   images: {
+    unoptimized: true,
     // contrib.rocks / shields 返回 SVG badge，需放行
     dangerouslyAllowSVG: true,
     contentDispositionType: 'attachment',
