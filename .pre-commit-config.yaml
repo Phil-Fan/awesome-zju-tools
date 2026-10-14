@@ -8,6 +8,8 @@ repos:
       - id: markdownlint-cli2
         name: markdown | lint
         args: ["--fix", "--config", ".markdownlint-cli2.jsonc"]
+        # 覆盖上游默认的 types: [markdown]，否则 .mdx 会被静默跳过
+        types: [text]
         types_or: [markdown, mdx]
 
   - repo: https://github.com/YuniqueUnic/autocorrect-pre-commit
