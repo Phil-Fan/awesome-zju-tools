@@ -33,6 +33,10 @@
 - 🔗 **链接有效**：
   请确保链接有效，避免 404 或无法访问。
 
+- ✅ **本地检查**：
+  首次克隆后运行 `pre-commit install`，提交前可执行 `pre-commit run --all-files`。
+  钩子会检查 Markdown/MDX 排版（markdownlint-cli2）、中文排版（autocorrect），以及站点的 ESLint 与 TypeScript 类型检查。
+
 ---
 
 ## 如何贡献

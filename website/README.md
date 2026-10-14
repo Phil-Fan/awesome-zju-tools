@@ -19,6 +19,15 @@ pnpm build
 pnpm start
 ```
 
+## 检查
+
+```bash
+pnpm lint          # ESLint（eslint.config.mjs）
+pnpm types:check   # fumadocs-mdx + next typegen + tsc --noEmit
+```
+
+仓库根目录的 pre-commit 会调用以上两项，见 `.pre-commit-config.yaml`。
+
 ## 目录
 
 | 路径 | 说明 |

@@ -1,0 +1,20 @@
+// 内容以 README.md 与 website/content/docs/*.mdx 的表格为主，
+// 因此关闭与表格排版冲突、或与 awesome list 习惯不符的规则。
+{
+  "config": {
+    // 表格行常常很长，不做行长限制
+    "line-length": false,
+    // MDX 页面以 frontmatter 开头，不强制首个标题（MD041）
+    "first-line-heading": false,
+    // 徽章（badges）等内联 HTML
+    "no-inline-html": false,
+    // 中日韩字符为双宽，表格竖线难以与表头对齐（MD060）
+    "table-column-style": false
+  },
+  "ignores": [
+    "node_modules/**",
+    "website/node_modules/**",
+    "website/.next/**",
+    "website/.source/**"
+  ]
+}

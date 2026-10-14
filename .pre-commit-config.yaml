@@ -1,0 +1,36 @@
+# 文档（Markdown/MDX）+ 站点（Next.js / TypeScript）
+# 本地安装：pre-commit install
+# 全量运行：pre-commit run --all-files
+repos:
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.23.3
+    hooks:
+      - id: markdownlint-cli2
+        name: markdown | lint
+        args: ["--fix", "--config", ".markdownlint-cli2.jsonc"]
+        types_or: [markdown, mdx]
+
+  - repo: https://github.com/YuniqueUnic/autocorrect-pre-commit
+    rev: 2.14.0
+    hooks:
+      - id: autocorrect-fix
+        name: markdown | autocorrect
+        files: \.(md|mdx)$
+
+  # 站点 lint / 类型检查依赖 website/node_modules，运行前请先安装依赖：
+  #   pnpm --dir website install
+  - repo: local
+    hooks:
+      - id: website-eslint
+        name: website | eslint
+        entry: pnpm --dir website run lint
+        language: system
+        files: ^website/.*\.(ts|tsx|mjs|js)$
+        pass_filenames: false
+
+      - id: website-typecheck
+        name: website | typecheck
+        entry: pnpm --dir website run types:check
+        language: system
+        files: ^website/.*\.(ts|tsx|mjs|js|mdx)$
+        pass_filenames: false

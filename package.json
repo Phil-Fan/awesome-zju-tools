@@ -4,6 +4,8 @@
   "scripts": {
     "dev": "pnpm --dir website dev",
     "build": "pnpm --dir website build",
-    "start": "pnpm --dir website start"
+    "start": "pnpm --dir website start",
+    "lint": "pnpm --dir website lint",
+    "types:check": "pnpm --dir website types:check"
   }
 }

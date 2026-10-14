@@ -7,6 +7,7 @@
     "dev": "next dev",
     "start": "next start",
     "postinstall": "fumadocs-mdx",
+    "lint": "eslint .",
     "types:check": "fumadocs-mdx && next typegen && tsc --noEmit"
   },
   "dependencies": {
@@ -25,6 +26,8 @@
     "@types/node": "^22.15.30",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
+    "eslint": "^10.12.0",
+    "eslint-config-next": "^16.4.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.11",
     "typescript": "^5.8.3"
