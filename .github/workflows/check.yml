@@ -29,6 +29,9 @@ jobs:
 
       - run: pnpm --dir website install --frozen-lockfile
 
+      # MDX / 站点配置错误只有 next build 能暴露（Cloudflare Pages 走同一命令）
+      - run: pnpm --dir website build
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"

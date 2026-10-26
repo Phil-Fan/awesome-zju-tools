@@ -18,6 +18,9 @@ export const docs = defineDocs({
 
 export default defineConfig({
   mdxOptions: {
-    // MDX options
+    // shields.io / contrib.rocks 徽章是动态图片，构建期不探测尺寸，避免网络请求失败
+    remarkImageOptions: {
+      external: false,
+    },
   },
 });
